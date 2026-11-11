@@ -5,13 +5,44 @@ reconstruction of the original `bot.py`, corrected against two Telegram
 screenshots from the live channel and the author's GitHub rewrite
 (`cryptotonyxyz-hash/tonybot`).
 
+## Current version (adopted Nov 11, 2026): V3.2 — ATR regime
+
+**`bot_v3_2.py` is the adopted current version.** It is V3.1 (regime
+filter, ADX rising, top-6 pairs, trailing stop to breakeven at +0.8R,
+12h post-loss cooldown, rebuilt PREMIUM label) with the 50DMA regime
+filter REPLACED by a BTC daily ATR(14) percentile band [0.20, 0.80]
+— only trade when volatility is in the normal range. SL 1.25x ATR(4h)
+and R:R 1:1.8 unchanged. Backtest on the 1,015 matched channel trades:
+**138 trades, 52.9% win, +0.560 R/trade, ~+7.0 R/month** (vs V3.1:
+183 trades, 45.9% win, +0.411 R; vs V3.0: 42.2% win, +0.018 R).
+Equity from $1,000 (bot's own per-trade risk, compounding, as of
+09:00 WAT 11 Nov 2026): V3.0 $1,063.49, V3.1 $3,387.60,
+V3.2 $3,769.99 — see `channel-analysis/equity-1000usd.txt`.
+**Tested and REJECTED, both OFF by default:** the funding-rate filter
+(premise backwards — extreme-funding trades are the best; OI history
+unobtainable) and partial take-profits (win rate up, expectancy down,
+no out-of-sample lift). Flags in `bot_v3_2.py`: `V32_ATR_REGIME=True`,
+`V32_USE_50DMA=False`, `V32_FUNDING_FILTER=False`,
+`V32_PARTIAL_TP_R=0.0`. Tests: `test_v3_2.py` 16 passed,
+`test_v3_1.py` 21 passed. `bot.py` (V3.0 reproduction) is untouched.
+Full analysis: `PERFORMANCE.md`. Do NOT deploy with real money on a
+backtest alone — forward-test live first. Nothing pushed to GitHub
+without Anthony's explicit approval.
+
 ## Files
 
 | File | What it is |
 |---|---|
-| `bot.py` | The working rebuild. Signal alerts only, no auto-trading. |
+| `bot.py` | The working V3.0 rebuild. Signal alerts only, no auto-trading. |
+| `bot_v3_1.py` | V3.1: 50DMA regime filter, ADX rising, top-6, trailing BE, 12h cooldown, rebuilt PREMIUM label. |
+| `bot_v3_2.py` | **V3.2 (current):** ATR-percentile regime [0.20, 0.80] replacing the 50DMA; funding filter and partial take-profits OFF (tested, rejected). |
 | `bot_reconstructed_gemini.py` | Gemini's verbatim reconstruction. Reference only, not runnable (hardcoded indicator values). |
 | `test_bot.py` | Tests: indicators, entry logic, stats/reports, live MEXC data. |
+| `test_v3_1.py` | V3.1 tests (21, all passing). |
+| `test_v3_2.py` | V3.2 tests (16, all passing). |
+| `backtest_improvements.py` | V3.1 backtest against the 1,015 matched channel trades. |
+| `backtest_v3_2.py` | V3.2 backtest (funding, partial TPs, ATR regime). |
+| `equity_1000usd.py` | Equity curves from $1,000 for V3.0/V3.1/V3.2 (bot's own per-trade risk, compounding). Output: `channel-analysis/equity-1000usd.txt`. |
 | `parse_channel_export.py` | Parses a Telegram Desktop JSON export of the signal channel into signals, outcomes, formula checks, and a stats seed. See below. |
 | `requirements.txt` | `ccxt`, `pandas`, `pandas_ta`, `requests`, `python-dotenv`. |
 | `.env.example` | Copy to `.env`, fill in your Telegram token and chat ID. |
@@ -22,7 +53,7 @@ screenshots from the live channel and the author's GitHub rewrite
 - **Trend signals only** (bounce disabled, as in the original).
 - **LONG** only when 4H BULLISH (price >= EMA50 4H) **and** 15M BULLISH
   (price >= EMA50 15M) **and** ADX >= 25. **SHORT** mirrored.
-- SL = entry +/- 3 * ATR(4H). TP = SL distance * 1.8 (R:R 1:1.8).
+- SL = entry +/- 1.25 * ATR(4H). TP = SL distance * 1.8 (R:R 1:1.8).
 - Skips a signal if the stop distance is more than 2.0% of the price
   (account-risk filter). Observed: 1.53% fired; 2.13% and 2.56% skipped.
 - 3h signal cooldown, 3h win cooldown, 24h time-stop (a signal that

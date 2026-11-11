@@ -1,0 +1,143 @@
+TonyBot V3.2 backtest — funding/OI, partial TPs, regime detection
+Matched V3.0 trades: 1015 (of 1,096 signals)
+Method, approximations and caveats: see backtest_v3_2.py header.
+OI: MEXC open-interest history is NOT available (endpoint blocked by WAF; Binance geo-blocked), so only the funding leg was tested.
+
+========== 0. BASELINES ==========
+  V3.0 baseline (all matched): n=1015  win 42.2%  loss 57.6%  BE 2  avg +0.018 R
+  V3.1 selection: n=183
+  V3.1 as reported (+0.374, trail + 12h early exit): n=183  win 42.1%  loss 45.4%  BE 23  avg +0.374 R
+  V3.1 as the bot runs (trail only, no early exit): n=183  win 45.9%  loss 37.7%  BE 30  avg +0.411 R
+  V3.1 selection only (no time-stop changes): n=183  win 51.4%  loss 48.6%  BE 0  avg +0.367 R
+  V3.1 (bot) monthly return: +6.8 R/month
+
+========== 2. PARTIAL TAKE-PROFITS (60m price paths; TON excluded where no 60m data) ==========
+  V3.1 selection + partial TP at +1.0R (trail=off): n=183  win 52.5%  loss 42.6%  BE 9  avg +0.268 R
+  V3.1 selection + partial TP at +1.0R (trail=on): n=183  win 55.2%  loss 44.8%  BE 0  avg +0.235 R
+  V3.1 selection + partial TP at +0.8R (trail=off): n=183  win 53.0%  loss 47.0%  BE 0  avg +0.263 R
+  V3.1 selection + partial TP at +0.8R (trail=on): n=183  win 62.8%  loss 37.2%  BE 0  avg +0.291 R
+  ALL matched + partial TP at +1.0R (no trail, no filters): n=1015  win 43.9%  loss 52.2%  BE 39  avg -0.014 R
+  ALL matched + partial TP at +0.8R (no trail, no filters): n=1015  win 45.2%  loss 54.8%  BE 0  avg -0.011 R
+  Partial level +1.0R reached in 786/1001 matched trades
+  Partial level +0.8R reached in 825/1001 matched trades
+  V3.1 selection Jan-Jun 2026 (no partial TP): n=75  win 56.0%  loss 44.0%  BE 0  avg +0.516 R
+  V3.1 selection Jan-Jun 2026 + partial TP +1.0R (trail on): n=75  win 65.3%  loss 34.7%  BE 0  avg +0.421 R
+  V3.1 selection Jul-Nov 2026 (no partial TP): n=108  win 48.1%  loss 51.9%  BE 0  avg +0.265 R
+  V3.1 selection Jul-Nov 2026 + partial TP +1.0R (trail on): n=108  win 48.1%  loss 51.9%  BE 0  avg +0.106 R
+
+========== 3. BETTER REGIME DETECTION (BTC daily ATR percentile / daily ADX) ==========
+  Trades with ATR-percentile data: 1015/1015
+  2026-04 all matched: n=86  win 24.4%  loss 74.4%  BE 1  avg -0.455 R
+  2026-04 regime-aligned (50DMA): n=29  win 3.4%  loss 96.6%  BE 0  avg -0.912 R
+  2026-05 all matched: n=164  win 37.8%  loss 62.2%  BE 0  avg -0.130 R
+  2026-05 regime-aligned (50DMA): n=88  win 36.4%  loss 63.6%  BE 0  avg -0.108 R
+  ATR pct in [0.20, 0.80] (normal vol only): n=437  win 48.3%  loss 51.5%  BE 1  avg +0.195 R
+  ATR pct in [0.10, 0.90] (normal vol only): n=556  win 46.2%  loss 53.6%  BE 1  avg +0.146 R
+  ATR pct in [0.25, 0.75] (normal vol only): n=384  win 50.0%  loss 49.7%  BE 1  avg +0.240 R
+  ATR pct >= 0.20 (skip compressed/low-vol): n=496  win 46.0%  loss 53.8%  BE 1  avg +0.142 R
+  ATR pct <= 0.80 (skip extreme vol): n=956  win 43.0%  loss 56.8%  BE 2  avg +0.034 R
+  daily ADX >= 20 (trend present): n=692  win 42.5%  loss 57.2%  BE 2  avg +0.049 R
+  daily ADX < 20 (would be skipped): n=323  win 41.5%  loss 58.5%  BE 0  avg -0.048 R
+  daily ADX >= 25 (trend present): n=518  win 46.1%  loss 53.5%  BE 2  avg +0.132 R
+  daily ADX < 25 (would be skipped): n=497  win 38.0%  loss 62.0%  BE 0  avg -0.101 R
+  2026-04 ATR pct in [0.20,0.80]: n=25  win 8.0%  loss 92.0%  BE 0  avg -0.798 R
+  2026-04 daily ADX >= 20: n=72  win 26.4%  loss 72.2%  BE 1  avg -0.416 R
+  2026-04 daily ADX >= 25: n=38  win 34.2%  loss 63.2%  BE 1  avg -0.346 R
+  2026-05 daily ADX >= 20: n=154  win 39.6%  loss 60.4%  BE 0  avg -0.084 R
+  2026-05 daily ADX >= 25: n=111  win 46.8%  loss 53.2%  BE 0  avg +0.037 R
+
+========== 3b. REGIME V2 INSIDE THE V3.1 PIPELINE (selection + trail, no early exit) ==========
+  50DMA only (V3.1): n=183  win 45.9%  loss 37.7%  BE 30  avg +0.411 R
+  ATR pct [0.20,0.80] only: n=138  win 52.9%  loss 30.4%  BE 23  avg +0.560 R
+  daily ADX >= 20 only: n=198  win 48.0%  loss 34.8%  BE 34  avg +0.404 R
+  daily ADX >= 25 only: n=158  win 49.4%  loss 32.3%  BE 29  avg +0.443 R
+  50DMA AND ATR pct [0.20,0.80]: n=83  win 51.8%  loss 31.3%  BE 14  avg +0.621 R
+  50DMA AND daily ADX >= 20: n=122  win 45.9%  loss 35.2%  BE 23  avg +0.426 R
+  50DMA AND daily ADX >= 25: n=93  win 44.1%  loss 31.2%  BE 23  avg +0.454 R
+
+========== 1. FUNDING-RATE FILTER (MEXC funding history; OI unavailable, see notes) ==========
+  Funding coverage: 1013/1015 matched trades
+  Funding median +0.00004, p90 +0.00010, p99 +0.00020
+  funding filter 'pct' {} (kept): n=768  win 41.8%  loss 57.9%  BE 2  avg +0.011 R
+  funding filter 'pct' {} (skipped): n=247  win 43.3%  loss 56.7%  BE 0  avg +0.038 R
+  funding filter 'abs' {} (kept): n=1015  win 42.2%  loss 57.6%  BE 2  avg +0.018 R
+  funding filter 'abs' {'abs_hi': 0.001, 'abs_lo': -0.001} (kept): n=1015  win 42.2%  loss 57.6%  BE 2  avg +0.018 R
+  funding filter 'pct_or_abs' {} (kept): n=768  win 41.8%  loss 57.9%  BE 2  avg +0.011 R
+  funding filter 'pct_or_abs' {} (skipped): n=247  win 43.3%  loss 56.7%  BE 0  avg +0.038 R
+  V3.1 selection + funding 'pct' {}: n=146  win 48.6%  loss 32.2%  BE 28  avg +0.501 R
+  V3.1 selection + funding 'abs' {}: n=183  win 45.9%  loss 37.7%  BE 30  avg +0.411 R
+
+========== 1b. FUNDING FILTER OUT-OF-SAMPLE (thresholds fitted Jan-Jun, tested Jul-Nov) ==========
+  Jan-Jun 2026 funding 'pct' (kept): n=350  win 42.9%  loss 56.9%  BE 1  avg +0.063 R
+  Jan-Jun 2026 no funding filter (all): n=437  win 42.1%  loss 57.7%  BE 1  avg +0.040 R
+  Jul-Nov 2026 funding 'pct' (kept): n=418  win 40.9%  loss 58.9%  BE 1  avg -0.032 R
+  Jul-Nov 2026 no funding filter (all): n=578  win 42.2%  loss 57.6%  BE 1  avg +0.001 R
+  Jan-Jun 2026 funding 'abs' (kept): n=437  win 42.1%  loss 57.7%  BE 1  avg +0.040 R
+  Jan-Jun 2026 no funding filter (all): n=437  win 42.1%  loss 57.7%  BE 1  avg +0.040 R
+  Jul-Nov 2026 funding 'abs' (kept): n=578  win 42.2%  loss 57.6%  BE 1  avg +0.001 R
+  Jul-Nov 2026 no funding filter (all): n=578  win 42.2%  loss 57.6%  BE 1  avg +0.001 R
+
+========== COMBINED V3.2 ==========
+  Combined V3.2 = 50DMA + daily ADX>=20 + funding pct filter, top-6, ADX rising, 12h cooldown, partial TP +1R, trailing BE.
+  V3.2 combined (all matched (in-sample)): n=99  win 61.6%  loss 38.4%  BE 0  avg +0.346 R
+  V3.2 combined (Jan-Jun 2026): n=54  win 70.4%  loss 29.6%  BE 0  avg +0.532 R
+  V3.2 combined (Jul-Nov 2026): n=45  win 51.1%  loss 48.9%  BE 0  avg +0.122 R
+  V3.2 selection (funding + ADX20 + 50DMA) WITHOUT partial TP: n=99  win 49.5%  loss 28.3%  BE 22  avg +0.554 R
+  V3.1 selection + partial TP +1R (trail on): n=183  win 55.2%  loss 44.8%  BE 0  avg +0.235 R
+
+========== SUMMARY vs V3.1 (bot) and V3.0 ==========
+  V3.0: n=1015 win 42.2% avg +0.018 R
+  V3.1 (bot, trail only): n=183 win 45.9% avg +0.411 R
+  V3.2 combined: n=99 win 61.6% avg +0.346 R
+
+========== FOLLOW-UP: OUT-OF-SAMPLE + ABSOLUTE FUNDING + PARTIAL-TP SANITY ==========
+(Thresholds/bands below were NOT re-fitted here; they are the same ones
+tested above, split Jan-Jun vs Jul-Nov to check robustness.)
+
+ATR filter out-of-sample (V3.1 pipeline, trail only):
+  ATR [0.20,0.80] only | Jan-Jun: n=57 win 54.4% loss 22.8% BE 13 avg +0.696 R (monthly +7.9)
+  ATR [0.20,0.80] only | Jul-Nov: n=81 win 51.9% loss 35.8% BE 10 avg +0.465 R (monthly +7.5)
+  ATR [0.25,0.75] only | Jan-Jun: n=51 win 60.8% loss 21.6% BE 9 avg +0.807 R (monthly +8.2)
+  ATR [0.25,0.75] only | Jul-Nov: n=69 win 53.6% loss 36.2% BE 7 avg +0.474 R (monthly +6.5)
+  50DMA AND ATR [0.20,0.80] | Jan-Jun: n=40 win 62.5% loss 20.0% BE 7 avg +0.879 R (monthly +7.0)
+  50DMA AND ATR [0.20,0.80] | Jul-Nov: n=43 win 41.9% loss 41.9% BE 7 avg +0.381 R (monthly +3.3)
+  -> ATR alone HOLDS UP out-of-sample in both halves. 50DMA AND ATR does
+     NOT hold up as well (Jul-Nov win rate falls to 41.9%, monthly +3.3).
+
+V3.1 + funding pct, out-of-sample:
+  V3.1 (no funding) | Jan-Jun: n=75 win 50.7% avg +0.591 R (monthly +7.4)
+  V3.1 + funding pct | Jan-Jun: n=60 win 55.0% avg +0.775 R (monthly +7.8)
+  V3.1 (no funding) | Jul-Nov: n=108 win 42.6% avg +0.285 R (monthly +6.2)
+  V3.1 + funding pct | Jul-Nov: n=86 win 44.2% avg +0.309 R (monthly +5.3)
+  -> Funding adds a little avg R in both halves but costs monthly return
+     in Jul-Nov (fewer trades). Weak and marginal, not a clear win.
+
+Absolute funding thresholds (from the funding distribution: median +0.00004,
+p90 +0.00010, p99 +0.00020; the earlier 0.0005 threshold was above the max
+and filtered nothing):
+  funding abs >0.0001/<-0.0001 kept n=957: win 41.8% avg +0.009 R
+  funding abs >0.0001/<-0.0001 skipped n=58: win 48.3% avg +0.168 R
+  funding abs >0.00015/<-0.00015 kept n=988: win 41.7% avg +0.013 R
+  funding abs >0.00015/<-0.00015 skipped n=27: win 59.3% avg +0.204 R
+  funding abs >0.0002/<-0.0002 kept n=1002: win 42.1% avg +0.018 R
+  funding abs >0.0002/<-0.0002 skipped n=13: win 46.2% avg +0.009 R
+  -> The SKIPPED (extreme-funding) trades did BETTER, not worse. The most
+     extreme funding trades (+0.00015) won 59.3% at +0.204 R. This is the
+     OPPOSITE of the "crowded trades underperform" hypothesis: extreme
+     funding coincides with strong trends, and a trend-following bot does
+     well in strong trends. Do NOT skip high-funding trades.
+
+Partial-TP simulation sanity check (one trade of each kind, V3.1 selection):
+  TARGET_HIT BTC SHORT: partial +1R -> +1.400 (0.5*1+0.9), +0.8R -> +1.300. OK.
+  STOP_HIT ETH SHORT: partial never reached before SL -> -1.000. OK.
+  TIME_STOP BTC LONG (orig +0.782R): partial +1R -> +0.891 (0.5+0.5*0.782);
+  +0.8R -> +0.791 (0.4+0.5*0.782). OK.
+
+WIN-RATE DEFINITION CORRECTION (applies to V3.1 too): this script counts a
+win as adjusted R > 0, a loss as R < 0, and R == 0 as breakeven. The V3.1
+report counted wins from the ORIGINAL outcome (out['win']), so its 51.4%
+is the PRE-simulation win rate. After the trailing stop converts some
+outcomes to breakeven, the V3.1 strategy's true win rate is 45.9% with 30
+breakevens (16.4%). Average R (+0.411) is unaffected and is the correct
+expectancy measure. The same applies to every trailing-BE / partial-TP
+row in this report: win rate is post-simulation, breakevens are shown.
