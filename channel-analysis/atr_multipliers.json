@@ -1,0 +1,242 @@
+[
+  {
+    "symbol": "BTC/USDT",
+    "ts": "2026-01-19T12:37:03",
+    "type": "SHORT",
+    "sl_pct": 0.947,
+    "atr_pct": 0.807,
+    "multiplier": 1.174
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-02-14T06:01:30",
+    "type": "LONG",
+    "sl_pct": 1.918,
+    "atr_pct": 1.875,
+    "multiplier": 1.023
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-03-07T00:00:14",
+    "type": "SHORT",
+    "sl_pct": 1.979,
+    "atr_pct": 1.853,
+    "multiplier": 1.068
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "ts": "2026-03-15T10:01:08",
+    "type": "LONG",
+    "sl_pct": 1.905,
+    "atr_pct": 1.991,
+    "multiplier": 0.957
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-03-24T01:01:05",
+    "type": "LONG",
+    "sl_pct": 1.971,
+    "atr_pct": 1.601,
+    "multiplier": 1.231
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "ts": "2026-04-19T11:59:22",
+    "type": "SHORT",
+    "sl_pct": 1.81,
+    "atr_pct": 1.853,
+    "multiplier": 0.977
+  },
+  {
+    "symbol": "ETH/USDT",
+    "ts": "2026-04-23T12:45:47",
+    "type": "SHORT",
+    "sl_pct": 1.976,
+    "atr_pct": 1.553,
+    "multiplier": 1.272
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-04-29T13:16:08",
+    "type": "LONG",
+    "sl_pct": 1.996,
+    "atr_pct": 1.239,
+    "multiplier": 1.612
+  },
+  {
+    "symbol": "BNB/USDT",
+    "ts": "2026-05-04T03:00:51",
+    "type": "LONG",
+    "sl_pct": 1.302,
+    "atr_pct": 0.663,
+    "multiplier": 1.963
+  },
+  {
+    "symbol": "BTC/USDT",
+    "ts": "2026-05-11T01:16:19",
+    "type": "LONG",
+    "sl_pct": 1.978,
+    "atr_pct": 0.979,
+    "multiplier": 2.019
+  },
+  {
+    "symbol": "NEAR/USDT",
+    "ts": "2026-05-17T15:00:29",
+    "type": "LONG",
+    "sl_pct": 1.929,
+    "atr_pct": 2.503,
+    "multiplier": 0.77
+  },
+  {
+    "symbol": "BNB/USDT",
+    "ts": "2026-05-24T01:00:15",
+    "type": "LONG",
+    "sl_pct": 1.723,
+    "atr_pct": 1.106,
+    "multiplier": 1.558
+  },
+  {
+    "symbol": "BTC/USDT",
+    "ts": "2026-06-01T08:00:10",
+    "type": "SHORT",
+    "sl_pct": 1.579,
+    "atr_pct": 0.9,
+    "multiplier": 1.755
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "ts": "2026-06-15T08:01:04",
+    "type": "LONG",
+    "sl_pct": 1.647,
+    "atr_pct": 1.627,
+    "multiplier": 1.013
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "ts": "2026-06-28T06:00:55",
+    "type": "SHORT",
+    "sl_pct": 1.581,
+    "atr_pct": 1.98,
+    "multiplier": 0.798
+  },
+  {
+    "symbol": "LINK/USDT",
+    "ts": "2026-07-05T09:49:26",
+    "type": "LONG",
+    "sl_pct": 1.549,
+    "atr_pct": 1.524,
+    "multiplier": 1.016
+  },
+  {
+    "symbol": "AVAX/USDT",
+    "ts": "2026-07-12T13:00:43",
+    "type": "SHORT",
+    "sl_pct": 1.959,
+    "atr_pct": 1.665,
+    "multiplier": 1.176
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-07-19T03:01:12",
+    "type": "LONG",
+    "sl_pct": 1.944,
+    "atr_pct": 1.471,
+    "multiplier": 1.322
+  },
+  {
+    "symbol": "LINK/USDT",
+    "ts": "2026-07-24T01:06:08",
+    "type": "SHORT",
+    "sl_pct": 1.528,
+    "atr_pct": 1.307,
+    "multiplier": 1.168
+  },
+  {
+    "symbol": "ETH/USDT",
+    "ts": "2026-07-28T09:01:09",
+    "type": "SHORT",
+    "sl_pct": 1.739,
+    "atr_pct": 1.365,
+    "multiplier": 1.274
+  },
+  {
+    "symbol": "DOT/USDT",
+    "ts": "2026-08-02T08:01:31",
+    "type": "LONG",
+    "sl_pct": 1.857,
+    "atr_pct": 1.5,
+    "multiplier": 1.238
+  },
+  {
+    "symbol": "DOGE/USDT",
+    "ts": "2026-08-09T10:27:40",
+    "type": "SHORT",
+    "sl_pct": 0.943,
+    "atr_pct": 0.901,
+    "multiplier": 1.046
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-08-14T18:01:21",
+    "type": "SHORT",
+    "sl_pct": 1.587,
+    "atr_pct": 0.896,
+    "multiplier": 1.771
+  },
+  {
+    "symbol": "BTC/USDT",
+    "ts": "2026-08-27T19:01:06",
+    "type": "LONG",
+    "sl_pct": 1.991,
+    "atr_pct": 1.383,
+    "multiplier": 1.44
+  },
+  {
+    "symbol": "BNB/USDT",
+    "ts": "2026-09-06T01:01:02",
+    "type": "LONG",
+    "sl_pct": 1.892,
+    "atr_pct": 1.443,
+    "multiplier": 1.311
+  },
+  {
+    "symbol": "LTC/USDT",
+    "ts": "2026-09-17T12:03:13",
+    "type": "LONG",
+    "sl_pct": 1.972,
+    "atr_pct": 1.642,
+    "multiplier": 1.201
+  },
+  {
+    "symbol": "ETH/USDT",
+    "ts": "2026-10-04T11:01:07",
+    "type": "LONG",
+    "sl_pct": 0.614,
+    "atr_pct": 0.885,
+    "multiplier": 0.694
+  },
+  {
+    "symbol": "BNB/USDT",
+    "ts": "2026-10-14T23:00:22",
+    "type": "SHORT",
+    "sl_pct": 1.7,
+    "atr_pct": 1.007,
+    "multiplier": 1.688
+  },
+  {
+    "symbol": "ETH/USDT",
+    "ts": "2026-10-22T13:28:14",
+    "type": "SHORT",
+    "sl_pct": 1.947,
+    "atr_pct": 1.475,
+    "multiplier": 1.32
+  },
+  {
+    "symbol": "LINK/USDT",
+    "ts": "2026-10-27T04:01:39",
+    "type": "SHORT",
+    "sl_pct": 1.953,
+    "atr_pct": 1.718,
+    "multiplier": 1.137
+  }
+]

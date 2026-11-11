@@ -1,5 +1,5 @@
-ccxt
-pandas
-pandas_ta
-requests
-python-dotenv
+ccxt>=4.0
+pandas>=2.0
+pandas_ta>=0.3.14
+requests>=2.28
+python-dotenv>=1.0

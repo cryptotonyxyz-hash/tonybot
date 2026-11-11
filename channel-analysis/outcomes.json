@@ -1,0 +1,9965 @@
+[
+  {
+    "ts": "2026-01-10T07:41:21",
+    "kind": "LOSS",
+    "symbol": "PEPE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-10T14:37:56",
+    "kind": "WIN",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T15:44:36",
+    "kind": "WIN",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T15:59:17",
+    "kind": "WIN",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T16:00:31",
+    "kind": "LOSS",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-11T16:49:31",
+    "kind": "LOSS",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-11T17:29:37",
+    "kind": "LOSS",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-11T17:31:59",
+    "kind": "LOSS",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-11T17:33:10",
+    "kind": "WIN",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T21:07:14",
+    "kind": "LOSS",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-11T21:07:16",
+    "kind": "WIN",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T21:16:45",
+    "kind": "WIN",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T21:21:30",
+    "kind": "WIN",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-11T23:10:17",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-12T00:05:26",
+    "kind": "WIN",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T01:38:38",
+    "kind": "LOSS",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-12T02:00:09",
+    "kind": "WIN",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T05:29:18",
+    "kind": "WIN",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T05:34:15",
+    "kind": "WIN",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T05:34:17",
+    "kind": "WIN",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T09:38:08",
+    "kind": "WIN",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T15:25:33",
+    "kind": "LOSS",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-12T17:29:00",
+    "kind": "WIN",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-12T17:30:12",
+    "kind": "WIN",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-13T14:37:13",
+    "kind": "WIN",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-13T15:30:11",
+    "kind": "LOSS",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T15:30:12",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T15:31:22",
+    "kind": "WIN",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-13T15:38:22",
+    "kind": "LOSS",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T16:57:56",
+    "kind": "LOSS",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T17:01:27",
+    "kind": "LOSS",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T17:01:28",
+    "kind": "LOSS",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T17:06:07",
+    "kind": "LOSS",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T17:38:35",
+    "kind": "WIN",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-13T19:48:04",
+    "kind": "LOSS",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T20:53:43",
+    "kind": "LOSS",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T23:08:59",
+    "kind": "LOSS",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T23:11:19",
+    "kind": "WIN",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-13T23:11:19",
+    "kind": "LOSS",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T23:11:19",
+    "kind": "LOSS",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T23:11:19",
+    "kind": "LOSS",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-13T23:11:20",
+    "kind": "WIN",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-13T23:46:04",
+    "kind": "LOSS",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-14T06:49:59",
+    "kind": "WIN",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-14T18:37:03",
+    "kind": "WIN",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-15T04:20:10",
+    "kind": "LOSS",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-15T04:26:00",
+    "kind": "LOSS",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-15T04:28:20",
+    "kind": "LOSS",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-15T16:29:22",
+    "kind": "WIN",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-15T16:49:26",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-15T19:41:46",
+    "kind": "LOSS",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-15T20:00:24",
+    "kind": "LOSS",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-15T21:26:34",
+    "kind": "LOSS",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-16T12:22:29",
+    "kind": "LOSS",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-16T16:30:12",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-16T16:47:36",
+    "kind": "LOSS",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-16T22:29:44",
+    "kind": "WIN",
+    "symbol": "SOL/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-17T08:25:38",
+    "kind": "WIN",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-17T11:16:26",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-17T14:17:58",
+    "kind": "WIN",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-17T20:17:52",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-17T21:06:39",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-18T02:06:41",
+    "kind": "LOSS",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-18T08:12:11",
+    "kind": "LOSS",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-18T09:06:40",
+    "kind": "LOSS",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-18T15:58:48",
+    "kind": "LOSS",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T01:00:18",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T01:00:18",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-19T01:00:18",
+    "kind": "TARGET_HIT",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-19T01:00:19",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T01:00:19",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T01:00:26",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T01:00:26",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T01:00:26",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T02:22:00",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T09:21:20",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T09:21:20",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T09:56:25",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T11:15:17",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-19T11:53:43",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": true
+  },
+  {
+    "ts": "2026-01-19T12:10:29",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": null,
+    "exit": null,
+    "pnl_pct": null,
+    "win": false
+  },
+  {
+    "ts": "2026-01-20T08:21:17",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 93171.86,
+    "exit": 91583.6511,
+    "pnl_pct": 17.0,
+    "win": true
+  },
+  {
+    "ts": "2026-01-20T08:21:17",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 3227.76,
+    "exit": 3138.4242,
+    "pnl_pct": 27.7,
+    "win": true
+  },
+  {
+    "ts": "2026-01-20T09:14:23",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 134.09,
+    "exit": 130.2978,
+    "pnl_pct": 28.3,
+    "win": true
+  },
+  {
+    "ts": "2026-01-20T17:34:09",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.129,
+    "exit": 0.1243,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-01-20T23:34:12",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 91334.23,
+    "exit": 88612.3287,
+    "pnl_pct": 29.8,
+    "win": true
+  },
+  {
+    "ts": "2026-01-21T01:07:46",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 912.94,
+    "exit": 881.1727,
+    "pnl_pct": 34.8,
+    "win": true
+  },
+  {
+    "ts": "2026-01-21T15:58:22",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 127.16,
+    "exit": 129.6627,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-01-21T16:19:32",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2961.07,
+    "exit": 3019.5281,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-01-23T17:37:04",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.9098,
+    "exit": 1.9382,
+    "pnl_pct": -14.9,
+    "win": false
+  },
+  {
+    "ts": "2026-01-25T17:09:49",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 89030.52,
+    "exit": 88068.2293,
+    "pnl_pct": 10.8,
+    "win": true
+  },
+  {
+    "ts": "2026-01-25T17:16:48",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1234,
+    "exit": 0.1206,
+    "pnl_pct": 22.6,
+    "win": true
+  },
+  {
+    "ts": "2026-01-25T17:20:58",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2938.34,
+    "exit": 2887.5861,
+    "pnl_pct": 17.3,
+    "win": true
+  },
+  {
+    "ts": "2026-01-25T18:13:44",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.8921,
+    "exit": 1.8434,
+    "pnl_pct": 25.7,
+    "win": true
+  },
+  {
+    "ts": "2026-01-25T18:15:08",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 125.36,
+    "exit": 121.7666,
+    "pnl_pct": 28.7,
+    "win": true
+  },
+  {
+    "ts": "2026-01-25T19:33:17",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 881.83,
+    "exit": 866.261,
+    "pnl_pct": 17.7,
+    "win": true
+  },
+  {
+    "ts": "2026-01-26T09:33:24",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.506,
+    "exit": 1.5356,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-01-29T02:28:02",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 90009.99,
+    "exit": 88702.4632,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-01-29T05:23:44",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 3003.66,
+    "exit": 2944.0947,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-01-29T13:25:46",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 903.78,
+    "exit": 891.4552,
+    "pnl_pct": -13.6,
+    "win": false
+  },
+  {
+    "ts": "2026-01-29T16:07:47",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 123.69,
+    "exit": 119.2578,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-01-29T16:10:36",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2929.02,
+    "exit": 2836.3567,
+    "pnl_pct": 31.6,
+    "win": true
+  },
+  {
+    "ts": "2026-01-29T16:10:37",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.8714,
+    "exit": 1.8179,
+    "pnl_pct": 28.6,
+    "win": true
+  },
+  {
+    "ts": "2026-01-29T16:13:25",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 87894.42,
+    "exit": 85881.5875,
+    "pnl_pct": 22.9,
+    "win": true
+  },
+  {
+    "ts": "2026-01-29T16:13:25",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1209,
+    "exit": 0.1168,
+    "pnl_pct": 33.8,
+    "win": true
+  },
+  {
+    "ts": "2026-01-30T03:20:27",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 868.69,
+    "exit": 841.0137,
+    "pnl_pct": 31.9,
+    "win": true
+  },
+  {
+    "ts": "2026-01-31T15:20:56",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 851.7,
+    "exit": 821.9267,
+    "pnl_pct": 35.0,
+    "win": true
+  },
+  {
+    "ts": "2026-01-31T15:39:36",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 83834.07,
+    "exit": 81167.0567,
+    "pnl_pct": 31.8,
+    "win": true
+  },
+  {
+    "ts": "2026-02-14T12:41:50",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0967,
+    "exit": 0.1001,
+    "pnl_pct": 34.8,
+    "win": true
+  },
+  {
+    "ts": "2026-02-14T19:38:19",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.178,
+    "exit": 9.5016,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-02-14T20:20:47",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.825,
+    "exit": 9.1381,
+    "pnl_pct": 35.5,
+    "win": true
+  },
+  {
+    "ts": "2026-02-14T20:28:55",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.456,
+    "exit": 1.5085,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-02-15T13:51:37",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 638.25,
+    "exit": 625.6939,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-02-15T14:30:17",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 70513.48,
+    "exit": 69112.9077,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-02-16T13:53:26",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 615.79,
+    "exit": 628.0737,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-02-20T01:27:46",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 8.78,
+    "exit": 8.9516,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-02-22T00:05:21",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.28,
+    "exit": 9.117,
+    "pnl_pct": -17.6,
+    "win": false
+  },
+  {
+    "ts": "2026-02-22T01:38:56",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 55.54,
+    "exit": 54.5925,
+    "pnl_pct": -17.1,
+    "win": false
+  },
+  {
+    "ts": "2026-02-23T02:01:00",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2762,
+    "exit": 0.2678,
+    "pnl_pct": 30.3,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:01:00",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 83.5,
+    "exit": 81.1954,
+    "pnl_pct": 27.6,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:02:35",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.01,
+    "exit": 8.692,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:02:35",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0971,
+    "exit": 0.0942,
+    "pnl_pct": 30.2,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:02:35",
+    "kind": "TARGET_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.9344,
+    "exit": 0.9042,
+    "pnl_pct": 32.3,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:08:53",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 615.58,
+    "exit": 597.4991,
+    "pnl_pct": 29.4,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:08:54",
+    "kind": "TARGET_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 1.31,
+    "exit": 1.2631,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:08:54",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.66,
+    "exit": 8.4243,
+    "pnl_pct": 27.2,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:10:28",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3915,
+    "exit": 1.3514,
+    "pnl_pct": 28.8,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T02:10:28",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 53.37,
+    "exit": 51.8566,
+    "pnl_pct": 28.4,
+    "win": true
+  },
+  {
+    "ts": "2026-02-23T21:15:08",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 66068.64,
+    "exit": 64047.7238,
+    "pnl_pct": 30.6,
+    "win": true
+  },
+  {
+    "ts": "2026-02-24T14:35:08",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 64901.46,
+    "exit": 62703.8586,
+    "pnl_pct": 33.9,
+    "win": true
+  },
+  {
+    "ts": "2026-02-25T02:13:10",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 63951.34,
+    "exit": 65217.6395,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-02-25T02:21:29",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 586.47,
+    "exit": 597.976,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-02-28T07:55:49",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3494,
+    "exit": 1.3011,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-02-28T07:59:09",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 65543.91,
+    "exit": 63207.2853,
+    "pnl_pct": 35.6,
+    "win": true
+  },
+  {
+    "ts": "2026-02-28T10:09:22",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 609.71,
+    "exit": 590.4349,
+    "pnl_pct": 31.6,
+    "win": true
+  },
+  {
+    "ts": "2026-03-05T17:10:21",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 660.58,
+    "exit": 647.3331,
+    "pnl_pct": -20.1,
+    "win": false
+  },
+  {
+    "ts": "2026-03-08T23:06:05",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0899,
+    "exit": 0.0874,
+    "pnl_pct": 27.8,
+    "win": true
+  },
+  {
+    "ts": "2026-03-08T23:06:05",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 67439.23,
+    "exit": 65914.483,
+    "pnl_pct": 22.6,
+    "win": true
+  },
+  {
+    "ts": "2026-03-09T04:10:20",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1948.61,
+    "exit": 1981.3351,
+    "pnl_pct": -16.8,
+    "win": false
+  },
+  {
+    "ts": "2026-03-09T04:15:14",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 616.28,
+    "exit": 624.734,
+    "pnl_pct": -13.7,
+    "win": false
+  },
+  {
+    "ts": "2026-03-09T06:43:45",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.646,
+    "exit": 8.819,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-03-09T06:43:45",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 66412.47,
+    "exit": 67678.5752,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-03-09T06:50:23",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.742,
+    "exit": 3.8169,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-03-12T16:03:31",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.337,
+    "exit": 1.3138,
+    "pnl_pct": -17.4,
+    "win": false
+  },
+  {
+    "ts": "2026-03-13T23:03:22",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 72242.39,
+    "exit": 70801.2195,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-14T07:38:39",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 55.68,
+    "exit": 54.7465,
+    "pnl_pct": -16.8,
+    "win": false
+  },
+  {
+    "ts": "2026-03-15T05:17:33",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2612,
+    "exit": 0.2664,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-03-15T17:17:01",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0966,
+    "exit": 0.0947,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-03-15T18:55:40",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.29,
+    "exit": 1.3054,
+    "pnl_pct": -11.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-15T23:33:18",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 88.64,
+    "exit": 90.9082,
+    "pnl_pct": 25.6,
+    "win": true
+  },
+  {
+    "ts": "2026-03-15T23:39:46",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2106.59,
+    "exit": 2155.2721,
+    "pnl_pct": 23.1,
+    "win": true
+  },
+  {
+    "ts": "2026-03-15T23:54:17",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.213,
+    "exit": 9.4946,
+    "pnl_pct": 30.6,
+    "win": true
+  },
+  {
+    "ts": "2026-03-16T00:08:47",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 1.416,
+    "exit": 1.4434,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-03-16T04:24:45",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.794,
+    "exit": 10.0751,
+    "pnl_pct": 28.7,
+    "win": true
+  },
+  {
+    "ts": "2026-03-16T04:31:16",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4133,
+    "exit": 1.4609,
+    "pnl_pct": 33.7,
+    "win": true
+  },
+  {
+    "ts": "2026-03-16T04:31:17",
+    "kind": "TARGET_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.987,
+    "exit": 4.1119,
+    "pnl_pct": 31.3,
+    "win": true
+  },
+  {
+    "ts": "2026-03-16T04:34:32",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 664.45,
+    "exit": 684.0876,
+    "pnl_pct": 29.6,
+    "win": true
+  },
+  {
+    "ts": "2026-03-16T14:33:53",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 55.93,
+    "exit": 57.9474,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-03-17T01:11:18",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 72575.62,
+    "exit": 75061.005,
+    "pnl_pct": 34.2,
+    "win": true
+  },
+  {
+    "ts": "2026-03-18T12:34:57",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 58.13,
+    "exit": 56.9662,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-03-19T12:35:42",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.296,
+    "exit": 1.2518,
+    "pnl_pct": 34.1,
+    "win": true
+  },
+  {
+    "ts": "2026-03-20T09:11:53",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 69912.55,
+    "exit": 71280.656,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-03-21T15:51:47",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 56.46,
+    "exit": 55.7313,
+    "pnl_pct": -12.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-22T11:38:32",
+    "kind": "TARGET_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 1.492,
+    "exit": 1.4401,
+    "pnl_pct": 34.8,
+    "win": true
+  },
+  {
+    "ts": "2026-03-22T22:06:00",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2119.42,
+    "exit": 2042.9296,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-03-23T12:06:59",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.256,
+    "exit": 0.261,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:00",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3998,
+    "exit": 1.4234,
+    "pnl_pct": -16.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:00",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 87.59,
+    "exit": 89.2456,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:00",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.9235,
+    "exit": 0.9417,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:01",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.106,
+    "exit": 9.2765,
+    "pnl_pct": -18.7,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:07",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.2873,
+    "exit": 1.313,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:08",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 628.52,
+    "exit": 637.7373,
+    "pnl_pct": -14.7,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:08",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 67706.77,
+    "exit": 69057.1245,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:08",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 53.56,
+    "exit": 54.4527,
+    "pnl_pct": -16.7,
+    "win": false
+  },
+  {
+    "ts": "2026-03-23T12:07:09",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.09,
+    "exit": 0.0918,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-03-26T05:19:16",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.725,
+    "exit": 9.5321,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-03-26T05:19:16",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.338,
+    "exit": 1.3144,
+    "pnl_pct": -17.6,
+    "win": false
+  },
+  {
+    "ts": "2026-03-26T06:45:29",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 649.04,
+    "exit": 637.3153,
+    "pnl_pct": -18.1,
+    "win": false
+  },
+  {
+    "ts": "2026-03-27T01:48:32",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.283,
+    "exit": 1.2472,
+    "pnl_pct": 27.9,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T10:11:33",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 69816.37,
+    "exit": 67600.084,
+    "pnl_pct": 31.7,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:38:57",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3808,
+    "exit": 1.3313,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:54:41",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 632.0,
+    "exit": 609.81,
+    "pnl_pct": 35.1,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:54:41",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.109,
+    "exit": 8.7821,
+    "pnl_pct": 35.9,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:54:42",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.937,
+    "exit": 8.6178,
+    "pnl_pct": 35.7,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:54:42",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2068.15,
+    "exit": 1996.439,
+    "pnl_pct": 34.7,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:56:17",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2551,
+    "exit": 0.2461,
+    "pnl_pct": 35.2,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:56:17",
+    "kind": "TARGET_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.515,
+    "exit": 3.3912,
+    "pnl_pct": 35.2,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T11:56:17",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 86.07,
+    "exit": 83.0062,
+    "pnl_pct": 35.6,
+    "win": true
+  },
+  {
+    "ts": "2026-03-27T16:30:25",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.255,
+    "exit": 1.2167,
+    "pnl_pct": 30.5,
+    "win": true
+  },
+  {
+    "ts": "2026-03-28T08:04:47",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.221,
+    "exit": 1.2448,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T11:05:58",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0901,
+    "exit": 0.0918,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T14:40:40",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3255,
+    "exit": 1.3512,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T14:40:40",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1991.73,
+    "exit": 2031.1118,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T14:40:40",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2466,
+    "exit": 0.2514,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T14:40:41",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.8773,
+    "exit": 0.8948,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T16:17:40",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 8.763,
+    "exit": 8.9306,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-03-28T19:08:36",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.369,
+    "exit": 3.4337,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-04-19T14:12:02",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 84.97,
+    "exit": 86.2879,
+    "pnl_pct": -15.5,
+    "win": false
+  },
+  {
+    "ts": "2026-04-19T14:18:37",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.16,
+    "exit": 9.315,
+    "pnl_pct": -16.9,
+    "win": false
+  },
+  {
+    "ts": "2026-04-19T14:21:52",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0939,
+    "exit": 0.0956,
+    "pnl_pct": -18.1,
+    "win": false
+  },
+  {
+    "ts": "2026-04-19T14:21:52",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.9442,
+    "exit": 0.9628,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-04-19T15:48:45",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2459,
+    "exit": 0.2508,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-04-19T18:53:27",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76188.95,
+    "exit": 74783.8732,
+    "pnl_pct": -18.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-20T10:09:04",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 55.14,
+    "exit": 54.99,
+    "pnl_pct": 2.7,
+    "win": true
+  },
+  {
+    "ts": "2026-04-20T11:51:27",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.202,
+    "exit": 9.234,
+    "pnl_pct": -3.5,
+    "win": false
+  },
+  {
+    "ts": "2026-04-20T13:21:20",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 74365.97,
+    "exit": 75509.1483,
+    "pnl_pct": -15.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-20T16:40:35",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.233,
+    "exit": 9.244,
+    "pnl_pct": -1.2,
+    "win": false
+  },
+  {
+    "ts": "2026-04-20T17:55:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2308.72,
+    "exit": 2300.62,
+    "pnl_pct": 3.5,
+    "win": true
+  },
+  {
+    "ts": "2026-04-20T18:19:17",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 620.65,
+    "exit": 629.4116,
+    "pnl_pct": -14.1,
+    "win": false
+  },
+  {
+    "ts": "2026-04-20T18:19:17",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 84.22,
+    "exit": 85.8883,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-04-21T18:19:43",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4438,
+    "exit": 1.4168,
+    "pnl_pct": -18.7,
+    "win": false
+  },
+  {
+    "ts": "2026-04-21T20:41:30",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 637.45,
+    "exit": 627.2717,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-21T20:44:50",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2491,
+    "exit": 0.2443,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-04-21T20:44:50",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.388,
+    "exit": 9.2013,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-04-21T22:12:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 75940.44,
+    "exit": 75561.03,
+    "pnl_pct": -5.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-22T12:12:41",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.404,
+    "exit": 9.515,
+    "pnl_pct": 11.8,
+    "win": true
+  },
+  {
+    "ts": "2026-04-22T21:19:58",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.459,
+    "exit": 1.4379,
+    "pnl_pct": -14.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-22T21:59:40",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.9708,
+    "exit": 0.9522,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-04-22T23:35:21",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2556,
+    "exit": 0.2509,
+    "pnl_pct": -18.5,
+    "win": false
+  },
+  {
+    "ts": "2026-04-22T23:49:31",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.408,
+    "exit": 3.3397,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T00:26:12",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.569,
+    "exit": 9.3831,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T01:12:31",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 88.23,
+    "exit": 86.6337,
+    "pnl_pct": -18.1,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T01:17:18",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2401.89,
+    "exit": 2356.176,
+    "pnl_pct": -19.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T03:23:51",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.421,
+    "exit": 1.3936,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T04:13:40",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0975,
+    "exit": 0.0956,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T10:10:52",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 78809.98,
+    "exit": 77547.7332,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T11:01:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 642.3,
+    "exit": 632.86,
+    "pnl_pct": -14.7,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T16:18:08",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.3764,
+    "exit": 1.4028,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-04-23T18:24:55",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.349,
+    "exit": 1.3754,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T06:01:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.4189,
+    "exit": 1.4287,
+    "pnl_pct": -6.9,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T06:03:04",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.325,
+    "exit": 9.314,
+    "pnl_pct": 1.2,
+    "win": true
+  },
+  {
+    "ts": "2026-04-24T07:02:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.259,
+    "exit": 1.234,
+    "pnl_pct": 19.9,
+    "win": true
+  },
+  {
+    "ts": "2026-04-24T07:13:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.248,
+    "exit": 0.249,
+    "pnl_pct": -4.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T07:26:07",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.252,
+    "exit": 9.293,
+    "pnl_pct": -4.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T09:01:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.9392,
+    "exit": 0.9424,
+    "pnl_pct": -3.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T10:02:18",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 85.69,
+    "exit": 85.31,
+    "pnl_pct": 4.4,
+    "win": true
+  },
+  {
+    "ts": "2026-04-24T12:46:38",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2325.85,
+    "exit": 2329.01,
+    "pnl_pct": -1.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T14:01:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 3.258,
+    "exit": 3.279,
+    "pnl_pct": -6.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-24T16:58:02",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 1.237,
+    "exit": 1.2618,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-26T12:25:51",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4195,
+    "exit": 1.4301,
+    "pnl_pct": -7.5,
+    "win": false
+  },
+  {
+    "ts": "2026-04-26T20:02:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 628.62,
+    "exit": 633.73,
+    "pnl_pct": -8.1,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T06:18:38",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.478,
+    "exit": 9.3536,
+    "pnl_pct": -13.1,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T06:18:39",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 638.29,
+    "exit": 631.0119,
+    "pnl_pct": -11.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T06:23:28",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1002,
+    "exit": 0.0985,
+    "pnl_pct": -17.2,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T06:37:57",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 78444.43,
+    "exit": 77713.5599,
+    "pnl_pct": -9.3,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T06:37:57",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.325,
+    "exit": 3.2595,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T06:45:58",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2353.11,
+    "exit": 2322.596,
+    "pnl_pct": -13.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-27T07:05:12",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.471,
+    "exit": 9.3424,
+    "pnl_pct": -13.6,
+    "win": false
+  },
+  {
+    "ts": "2026-04-28T09:59:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 628.05,
+    "exit": 624.41,
+    "pnl_pct": 5.8,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T14:32:14",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 55.67,
+    "exit": 54.93,
+    "pnl_pct": 13.3,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T15:08:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3742,
+    "exit": 1.3529,
+    "pnl_pct": 15.5,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:01:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.32,
+    "exit": 9.209,
+    "pnl_pct": 11.9,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:01:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.269,
+    "exit": 9.189,
+    "pnl_pct": 8.6,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:02:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2312.08,
+    "exit": 2275.5,
+    "pnl_pct": 15.8,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:02:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 85.2,
+    "exit": 83.4,
+    "pnl_pct": 21.1,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:02:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.4029,
+    "exit": 1.3716,
+    "pnl_pct": 22.3,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:02:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.2475,
+    "exit": 0.2464,
+    "pnl_pct": 4.4,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T16:02:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.233,
+    "exit": 1.233,
+    "pnl_pct": 0.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-28T16:32:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 76926.48,
+    "exit": 75928.66,
+    "pnl_pct": 13.0,
+    "win": true
+  },
+  {
+    "ts": "2026-04-28T17:02:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.298,
+    "exit": 1.304,
+    "pnl_pct": -4.6,
+    "win": false
+  },
+  {
+    "ts": "2026-04-28T21:50:29",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 54.91,
+    "exit": 55.5366,
+    "pnl_pct": -11.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T04:42:32",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 83.48,
+    "exit": 84.643,
+    "pnl_pct": -13.9,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T04:44:09",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2278.37,
+    "exit": 2310.8306,
+    "pnl_pct": -14.2,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T04:44:09",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 75947.01,
+    "exit": 77116.7158,
+    "pnl_pct": -15.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T05:33:43",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.219,
+    "exit": 9.3436,
+    "pnl_pct": -13.5,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T05:41:43",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.3515,
+    "exit": 1.3722,
+    "pnl_pct": -15.3,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T05:41:44",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2461,
+    "exit": 0.2502,
+    "pnl_pct": -16.6,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T10:49:09",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3749,
+    "exit": 1.3977,
+    "pnl_pct": -16.6,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T10:52:27",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 622.81,
+    "exit": 628.6675,
+    "pnl_pct": -9.4,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T15:51:59",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2512,
+    "exit": 0.2462,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T16:38:20",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 77243.26,
+    "exit": 76082.0334,
+    "pnl_pct": -15.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T16:40:00",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 56.6,
+    "exit": 55.4673,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-29T16:44:59",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2321.27,
+    "exit": 2274.8757,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-30T22:02:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 615.28,
+    "exit": 617.76,
+    "pnl_pct": -4.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-30T23:00:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82.92,
+    "exit": 82.91,
+    "pnl_pct": 0.1,
+    "win": true
+  },
+  {
+    "ts": "2026-04-30T23:00:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3691,
+    "exit": 1.3664,
+    "pnl_pct": 2.0,
+    "win": true
+  },
+  {
+    "ts": "2026-04-30T23:02:19",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 75903.58,
+    "exit": 76286.72,
+    "pnl_pct": -5.0,
+    "win": false
+  },
+  {
+    "ts": "2026-04-30T23:57:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.127,
+    "exit": 9.089,
+    "pnl_pct": 4.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-01T01:01:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.2448,
+    "exit": 0.2463,
+    "pnl_pct": -6.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-01T01:01:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.9086,
+    "exit": 0.9091,
+    "pnl_pct": -0.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-01T01:01:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.136,
+    "exit": 9.098,
+    "pnl_pct": 4.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-01T01:01:56",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3283,
+    "exit": 1.2991,
+    "pnl_pct": 22.0,
+    "win": true
+  },
+  {
+    "ts": "2026-05-01T03:30:41",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2261.53,
+    "exit": 2266.87,
+    "pnl_pct": -2.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-01T04:20:32",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 615.38,
+    "exit": 619.975,
+    "pnl_pct": -7.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-01T04:23:51",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.2989,
+    "exit": 1.3167,
+    "pnl_pct": -13.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-01T21:53:43",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 84.61,
+    "exit": 83.4836,
+    "pnl_pct": -13.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-02T01:40:21",
+    "kind": "STOP_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.335,
+    "exit": 1.3098,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-02T06:25:24",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3038,
+    "exit": 1.2875,
+    "pnl_pct": 12.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-02T10:01:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 77388.14,
+    "exit": 78298.53,
+    "pnl_pct": 11.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-02T15:25:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2312.8,
+    "exit": 2305.32,
+    "pnl_pct": -3.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-02T17:09:02",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3961,
+    "exit": 1.3922,
+    "pnl_pct": -2.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-02T19:01:12",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.25,
+    "exit": 0.2497,
+    "pnl_pct": -1.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-03T03:11:17",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3975,
+    "exit": 1.3833,
+    "pnl_pct": -10.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-03T03:14:32",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.268,
+    "exit": 3.2134,
+    "pnl_pct": -16.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-03T11:02:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 78288.52,
+    "exit": 78510.01,
+    "pnl_pct": 2.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-03T17:27:10",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2309.0,
+    "exit": 2327.71,
+    "pnl_pct": 8.1,
+    "win": true
+  },
+  {
+    "ts": "2026-05-03T20:01:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.341,
+    "exit": 1.351,
+    "pnl_pct": 7.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-04T00:42:41",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 622.13,
+    "exit": 617.3896,
+    "pnl_pct": -7.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-04T03:38:27",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.2718,
+    "exit": 1.2928,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-04T05:19:07",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 623.03,
+    "exit": 637.6223,
+    "pnl_pct": 23.4,
+    "win": true
+  },
+  {
+    "ts": "2026-05-04T05:20:44",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 79007.22,
+    "exit": 80529.0568,
+    "pnl_pct": 19.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-04T05:20:45",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2334.12,
+    "exit": 2395.9838,
+    "pnl_pct": 26.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-04T15:57:16",
+    "kind": "TARGET_HIT",
+    "symbol": "TON/USDT",
+    "entry": 1.362,
+    "exit": 1.3983,
+    "pnl_pct": 26.7,
+    "win": true
+  },
+  {
+    "ts": "2026-05-05T01:09:01",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 56.03,
+    "exit": 54.9182,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-05T02:52:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3992,
+    "exit": 1.3976,
+    "pnl_pct": -1.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-05T07:24:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 79711.22,
+    "exit": 80846.45,
+    "pnl_pct": 14.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-05T11:04:33",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 626.99,
+    "exit": 626.73,
+    "pnl_pct": -0.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-06T04:36:38",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.524,
+    "exit": 9.8665,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T07:01:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2380.97,
+    "exit": 2366.69,
+    "pnl_pct": -6.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-06T08:10:05",
+    "kind": "TARGET_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.9593,
+    "exit": 0.9927,
+    "pnl_pct": 34.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T08:26:01",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 81038.71,
+    "exit": 81552.28,
+    "pnl_pct": 6.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T09:05:57",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2565,
+    "exit": 0.2655,
+    "pnl_pct": 35.1,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T09:26:59",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 630.26,
+    "exit": 640.7034,
+    "pnl_pct": 16.6,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T10:12:08",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.821,
+    "exit": 10.1471,
+    "pnl_pct": 33.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T11:17:35",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 86.46,
+    "exit": 89.5343,
+    "pnl_pct": 35.6,
+    "win": true
+  },
+  {
+    "ts": "2026-05-06T11:35:43",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.42,
+    "exit": 9.7462,
+    "pnl_pct": 34.6,
+    "win": true
+  },
+  {
+    "ts": "2026-05-07T03:26:16",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.661,
+    "exit": 9.4689,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-07T04:34:26",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4304,
+    "exit": 1.4049,
+    "pnl_pct": -17.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-07T05:29:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 56.62,
+    "exit": 56.45,
+    "pnl_pct": -3.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-07T09:36:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 81776.1,
+    "exit": 81360.18,
+    "pnl_pct": -5.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-07T15:08:04",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 644.21,
+    "exit": 645.86,
+    "pnl_pct": 2.6,
+    "win": true
+  },
+  {
+    "ts": "2026-05-07T15:29:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 88.26,
+    "exit": 88.53,
+    "pnl_pct": 3.1,
+    "win": true
+  },
+  {
+    "ts": "2026-05-08T06:01:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2327.36,
+    "exit": 2282.44,
+    "pnl_pct": 19.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-08T18:33:14",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2278.14,
+    "exit": 2308.7897,
+    "pnl_pct": -13.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-08T19:01:06",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3936,
+    "exit": 1.4117,
+    "pnl_pct": -13.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-08T19:20:47",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1065,
+    "exit": 0.1085,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-09T03:08:11",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 79596.09,
+    "exit": 80429.85,
+    "pnl_pct": -10.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-09T15:27:18",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 58.81,
+    "exit": 57.8377,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-09T16:12:24",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1104,
+    "exit": 0.1082,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-09T16:12:25",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 10.0,
+    "exit": 9.8012,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-09T16:12:25",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2759,
+    "exit": 0.2705,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-10T02:27:15",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 653.7,
+    "exit": 644.8974,
+    "pnl_pct": -13.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-10T04:25:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.4307,
+    "exit": 1.4163,
+    "pnl_pct": -10.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-10T06:04:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 92.95,
+    "exit": 93.31,
+    "pnl_pct": 3.9,
+    "win": true
+  },
+  {
+    "ts": "2026-05-10T10:01:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 10.475,
+    "exit": 10.507,
+    "pnl_pct": 3.1,
+    "win": true
+  },
+  {
+    "ts": "2026-05-10T21:48:40",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 81075.32,
+    "exit": 80595.0982,
+    "pnl_pct": -5.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-10T21:50:19",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2354.2,
+    "exit": 2316.5364,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-11T21:17:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 658.7,
+    "exit": 662.69,
+    "pnl_pct": 6.1,
+    "win": true
+  },
+  {
+    "ts": "2026-05-11T21:32:11",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 59.27,
+    "exit": 58.84,
+    "pnl_pct": -7.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-12T01:17:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 81770.67,
+    "exit": 81630.28,
+    "pnl_pct": -1.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-13T05:00:56",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2308.64,
+    "exit": 2302.32,
+    "pnl_pct": 2.7,
+    "win": true
+  },
+  {
+    "ts": "2026-05-13T09:42:17",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 57.53,
+    "exit": 58.6167,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-13T13:39:36",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2320.82,
+    "exit": 2277.9788,
+    "pnl_pct": -18.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-13T15:00:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 80418.61,
+    "exit": 79611.53,
+    "pnl_pct": 10.0,
+    "win": true
+  },
+  {
+    "ts": "2026-05-14T07:34:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 676.4,
+    "exit": 669.33,
+    "pnl_pct": -10.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T14:12:32",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4256,
+    "exit": 1.4525,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T15:50:35",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 56.95,
+    "exit": 58.0356,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T15:52:12",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.79,
+    "exit": 9.9861,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T16:01:48",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 79682.35,
+    "exit": 80963.0261,
+    "pnl_pct": -16.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T16:21:06",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2256.37,
+    "exit": 2292.2008,
+    "pnl_pct": -15.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T16:51:45",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 91.21,
+    "exit": 92.9523,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-05-14T17:01:26",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2656,
+    "exit": 0.2707,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-15T14:28:06",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 81095.46,
+    "exit": 80050.3642,
+    "pnl_pct": -12.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-15T14:52:35",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 57.82,
+    "exit": 56.7427,
+    "pnl_pct": -18.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-15T14:52:36",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 685.52,
+    "exit": 672.59,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-16T07:51:11",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 91.27,
+    "exit": 88.033,
+    "pnl_pct": 35.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-16T10:19:07",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2243.78,
+    "exit": 2181.2916,
+    "pnl_pct": 27.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-16T10:19:08",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 10.081,
+    "exit": 9.7329,
+    "pnl_pct": 34.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-16T10:22:21",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.555,
+    "exit": 9.2216,
+    "pnl_pct": 34.9,
+    "win": true
+  },
+  {
+    "ts": "2026-05-16T10:22:21",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2618,
+    "exit": 0.2527,
+    "pnl_pct": 34.9,
+    "win": true
+  },
+  {
+    "ts": "2026-05-16T18:28:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 79394.83,
+    "exit": 78291.07,
+    "pnl_pct": 13.9,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T00:00:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.4339,
+    "exit": 1.4136,
+    "pnl_pct": 14.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T05:46:02",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.4942,
+    "exit": 1.5236,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-17T06:01:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 56.88,
+    "exit": 56.28,
+    "pnl_pct": 10.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T11:28:43",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1096,
+    "exit": 0.1118,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-17T13:12:02",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.512,
+    "exit": 3.5815,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-17T15:36:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 653.78,
+    "exit": 652.3,
+    "pnl_pct": 2.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T15:47:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2187.64,
+    "exit": 2186.17,
+    "pnl_pct": 0.7,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T15:47:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.2554,
+    "exit": 0.2549,
+    "pnl_pct": 2.0,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T15:47:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.343,
+    "exit": 9.292,
+    "pnl_pct": 5.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T17:02:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.716,
+    "exit": 9.72,
+    "pnl_pct": -0.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-17T17:05:49",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 86.67,
+    "exit": 86.53,
+    "pnl_pct": 1.6,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T19:30:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 78199.96,
+    "exit": 78135.68,
+    "pnl_pct": 0.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T20:00:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.275,
+    "exit": 1.272,
+    "pnl_pct": 2.4,
+    "win": true
+  },
+  {
+    "ts": "2026-05-17T23:24:51",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.54,
+    "exit": 1.5103,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-18T00:08:35",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1114,
+    "exit": 0.1093,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-18T00:42:33",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4143,
+    "exit": 1.3843,
+    "pnl_pct": 21.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-18T00:42:33",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.291,
+    "exit": 9.0387,
+    "pnl_pct": 27.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-18T00:42:33",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 86.29,
+    "exit": 84.3211,
+    "pnl_pct": 22.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-18T07:10:14",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 652.2,
+    "exit": 639.916,
+    "pnl_pct": 18.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-18T13:23:04",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2119.57,
+    "exit": 2147.9849,
+    "pnl_pct": -13.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-19T00:56:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.252,
+    "exit": 0.2516,
+    "pnl_pct": 1.6,
+    "win": true
+  },
+  {
+    "ts": "2026-05-19T01:02:36",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 77392.16,
+    "exit": 76980.74,
+    "pnl_pct": 5.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-19T01:21:44",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.479,
+    "exit": 9.6616,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-19T01:51:59",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.182,
+    "exit": 9.304,
+    "pnl_pct": -13.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-19T03:14:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.402,
+    "exit": 1.3819,
+    "pnl_pct": 14.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-19T09:02:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 84.82,
+    "exit": 85.4,
+    "pnl_pct": -6.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-19T12:35:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 639.66,
+    "exit": 640.09,
+    "pnl_pct": -0.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-19T12:42:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 54.03,
+    "exit": 54.02,
+    "pnl_pct": 0.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-20T04:16:48",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.381,
+    "exit": 1.3521,
+    "pnl_pct": 20.9,
+    "win": true
+  },
+  {
+    "ts": "2026-05-20T15:17:16",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.1024,
+    "exit": 0.1044,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-20T16:01:48",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 53.77,
+    "exit": 54.22,
+    "pnl_pct": -8.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-20T22:00:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.2493,
+    "exit": 0.2506,
+    "pnl_pct": -5.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-21T02:16:20",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3581,
+    "exit": 1.3798,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-22T01:17:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 651.53,
+    "exit": 658.59,
+    "pnl_pct": 10.8,
+    "win": true
+  },
+  {
+    "ts": "2026-05-22T10:01:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 9.411,
+    "exit": 9.505,
+    "pnl_pct": 10.0,
+    "win": true
+  },
+  {
+    "ts": "2026-05-22T19:11:48",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.92,
+    "exit": 9.7293,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-22T19:45:03",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 87.32,
+    "exit": 85.7093,
+    "pnl_pct": -18.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-22T20:42:51",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 657.28,
+    "exit": 649.48,
+    "pnl_pct": -11.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T08:53:22",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 84.71,
+    "exit": 82.082,
+    "pnl_pct": 31.0,
+    "win": true
+  },
+  {
+    "ts": "2026-05-23T09:02:58",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.199,
+    "exit": 8.9035,
+    "pnl_pct": 32.1,
+    "win": true
+  },
+  {
+    "ts": "2026-05-23T09:39:45",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76516.43,
+    "exit": 74431.044,
+    "pnl_pct": 27.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-23T19:14:31",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.017,
+    "exit": 9.1881,
+    "pnl_pct": -19.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T19:19:18",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 74889.45,
+    "exit": 75736.408,
+    "pnl_pct": -11.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T19:19:18",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 83.27,
+    "exit": 84.8985,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T21:33:23",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.275,
+    "exit": 9.4556,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T21:38:15",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2070.77,
+    "exit": 2106.4311,
+    "pnl_pct": -17.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T21:39:52",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 52.93,
+    "exit": 53.8504,
+    "pnl_pct": -17.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T21:41:30",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2438,
+    "exit": 0.2485,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T21:46:21",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3423,
+    "exit": 1.3653,
+    "pnl_pct": -17.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-23T22:00:56",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 651.45,
+    "exit": 662.4934,
+    "pnl_pct": -17.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-24T15:13:45",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 77333.29,
+    "exit": 76546.3582,
+    "pnl_pct": -10.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-24T21:49:33",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 86.39,
+    "exit": 84.7327,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-24T22:30:14",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.353,
+    "exit": 9.1676,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T01:01:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 656.57,
+    "exit": 657.4,
+    "pnl_pct": 1.3,
+    "win": true
+  },
+  {
+    "ts": "2026-05-25T03:07:52",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76157.43,
+    "exit": 77410.7412,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T09:48:40",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.194,
+    "exit": 9.3557,
+    "pnl_pct": -17.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T09:51:57",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.241,
+    "exit": 0.2457,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T15:17:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3475,
+    "exit": 1.3605,
+    "pnl_pct": -9.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T15:23:52",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2097.62,
+    "exit": 2121.63,
+    "pnl_pct": -11.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T22:03:12",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 52.66,
+    "exit": 52.88,
+    "pnl_pct": -4.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T23:32:10",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.468,
+    "exit": 9.3083,
+    "pnl_pct": -16.9,
+    "win": false
+  },
+  {
+    "ts": "2026-05-25T23:33:48",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 77861.91,
+    "exit": 77104.0108,
+    "pnl_pct": -9.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-26T01:53:21",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 670.04,
+    "exit": 658.2402,
+    "pnl_pct": -17.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-26T15:22:45",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76679.1,
+    "exit": 77630.7915,
+    "pnl_pct": -12.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-26T15:22:46",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.3,
+    "exit": 3.3659,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-26T15:24:23",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3403,
+    "exit": 1.3614,
+    "pnl_pct": -15.7,
+    "win": false
+  },
+  {
+    "ts": "2026-05-26T15:24:24",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.2418,
+    "exit": 0.2466,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-26T15:27:39",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 84.49,
+    "exit": 86.1087,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-27T00:04:49",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 52.53,
+    "exit": 52.06,
+    "pnl_pct": 8.9,
+    "win": true
+  },
+  {
+    "ts": "2026-05-27T16:26:45",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 52.01,
+    "exit": 52.8093,
+    "pnl_pct": -15.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-28T04:36:44",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 652.88,
+    "exit": 640.1796,
+    "pnl_pct": 19.5,
+    "win": true
+  },
+  {
+    "ts": "2026-05-28T15:06:39",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 75028.04,
+    "exit": 72765.9181,
+    "pnl_pct": 30.2,
+    "win": true
+  },
+  {
+    "ts": "2026-05-28T17:18:24",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.2913,
+    "exit": 1.3163,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-28T17:24:53",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 51.0,
+    "exit": 51.8052,
+    "pnl_pct": -15.8,
+    "win": false
+  },
+  {
+    "ts": "2026-05-28T19:03:35",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 80.97,
+    "exit": 82.4751,
+    "pnl_pct": -18.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-29T10:47:41",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1994.61,
+    "exit": 2013.21,
+    "pnl_pct": -9.3,
+    "win": false
+  },
+  {
+    "ts": "2026-05-29T15:17:33",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 633.97,
+    "exit": 636.03,
+    "pnl_pct": -3.2,
+    "win": false
+  },
+  {
+    "ts": "2026-05-29T16:08:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 73145.76,
+    "exit": 73556.43,
+    "pnl_pct": -5.6,
+    "win": false
+  },
+  {
+    "ts": "2026-05-29T16:31:39",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2000.65,
+    "exit": 2029.4543,
+    "pnl_pct": -14.4,
+    "win": false
+  },
+  {
+    "ts": "2026-05-30T03:03:20",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0993,
+    "exit": 0.1013,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-05-30T19:53:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 73253.01,
+    "exit": 74012.44,
+    "pnl_pct": -10.4,
+    "win": false
+  },
+  {
+    "ts": "2026-06-01T00:04:56",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 73608.51,
+    "exit": 74072.8594,
+    "pnl_pct": -6.3,
+    "win": false
+  },
+  {
+    "ts": "2026-06-01T04:16:29",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0997,
+    "exit": 0.1013,
+    "pnl_pct": -16.9,
+    "win": false
+  },
+  {
+    "ts": "2026-06-01T09:30:08",
+    "kind": "TARGET_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.035,
+    "exit": 2.9538,
+    "pnl_pct": 26.8,
+    "win": true
+  },
+  {
+    "ts": "2026-06-01T17:08:51",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 73128.39,
+    "exit": 71049.482,
+    "pnl_pct": 28.4,
+    "win": true
+  },
+  {
+    "ts": "2026-06-01T20:01:38",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2001.24,
+    "exit": 1992.89,
+    "pnl_pct": 4.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-01T21:02:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 51.72,
+    "exit": 50.84,
+    "pnl_pct": 17.0,
+    "win": true
+  },
+  {
+    "ts": "2026-06-01T21:23:34",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0987,
+    "exit": 0.1007,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-06-02T06:41:08",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 50.94,
+    "exit": 49.3636,
+    "pnl_pct": 30.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-02T13:37:35",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 71650.0,
+    "exit": 69166.6195,
+    "pnl_pct": 34.7,
+    "win": true
+  },
+  {
+    "ts": "2026-06-02T15:23:22",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.2923,
+    "exit": 1.2469,
+    "pnl_pct": 35.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-02T16:21:33",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1989.09,
+    "exit": 1927.0646,
+    "pnl_pct": 31.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-02T16:28:13",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 49.59,
+    "exit": 47.9976,
+    "pnl_pct": 32.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-04T00:24:26",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 66798.51,
+    "exit": 64404.2783,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-06-10T16:55:21",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 61735.51,
+    "exit": 62827.3932,
+    "pnl_pct": -17.7,
+    "win": false
+  },
+  {
+    "ts": "2026-06-11T05:11:18",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 588.15,
+    "exit": 595.19,
+    "pnl_pct": -12.0,
+    "win": false
+  },
+  {
+    "ts": "2026-06-12T15:34:10",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0868,
+    "exit": 0.0898,
+    "pnl_pct": 34.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-12T18:52:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 605.21,
+    "exit": 606.96,
+    "pnl_pct": 2.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-13T05:23:59",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63765.04,
+    "exit": 63563.0,
+    "pnl_pct": -3.2,
+    "win": false
+  },
+  {
+    "ts": "2026-06-13T19:54:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 607.02,
+    "exit": 607.67,
+    "pnl_pct": 1.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-14T08:49:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 67.33,
+    "exit": 68.17,
+    "pnl_pct": 12.5,
+    "win": true
+  },
+  {
+    "ts": "2026-06-14T10:19:41",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.026,
+    "exit": 7.8853,
+    "pnl_pct": -17.5,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T12:16:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1484,
+    "exit": 1.1429,
+    "pnl_pct": -4.8,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T13:02:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 43.76,
+    "exit": 44.09,
+    "pnl_pct": 7.5,
+    "win": true
+  },
+  {
+    "ts": "2026-06-14T13:37:35",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1692.18,
+    "exit": 1668.9374,
+    "pnl_pct": -13.7,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T14:20:34",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.9817,
+    "exit": 0.9627,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T15:10:10",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.7682,
+    "exit": 0.7531,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T15:32:32",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0879,
+    "exit": 0.0862,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T15:35:45",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 68.43,
+    "exit": 67.3095,
+    "pnl_pct": -16.4,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T17:01:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64262.57,
+    "exit": 64059.43,
+    "pnl_pct": -3.2,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T18:38:27",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 611.63,
+    "exit": 605.4475,
+    "pnl_pct": -10.1,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:17:38",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1663.31,
+    "exit": 1681.106,
+    "pnl_pct": -10.7,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:19:15",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 67.55,
+    "exit": 68.6624,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:19:15",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 63730.01,
+    "exit": 64723.0189,
+    "pnl_pct": -15.6,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:22:28",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1389,
+    "exit": 1.156,
+    "pnl_pct": -15.0,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:24:05",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1671,
+    "exit": 0.1704,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:25:41",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0866,
+    "exit": 0.0879,
+    "pnl_pct": -15.4,
+    "win": false
+  },
+  {
+    "ts": "2026-06-14T22:35:19",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 604.2,
+    "exit": 613.7994,
+    "pnl_pct": -15.9,
+    "win": false
+  },
+  {
+    "ts": "2026-06-15T12:24:45",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1813,
+    "exit": 1.2205,
+    "pnl_pct": 33.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-15T12:26:20",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1718.01,
+    "exit": 1760.7581,
+    "pnl_pct": 24.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-15T14:16:54",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 71.19,
+    "exit": 73.6954,
+    "pnl_pct": 35.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-15T14:21:45",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.186,
+    "exit": 8.4815,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-16T02:06:06",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 613.36,
+    "exit": 617.1,
+    "pnl_pct": 6.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-16T03:29:26",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0886,
+    "exit": 0.0872,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-06-16T08:01:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 65758.83,
+    "exit": 66426.23,
+    "pnl_pct": 10.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-16T08:01:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.26,
+    "exit": 45.66,
+    "pnl_pct": 8.8,
+    "win": true
+  },
+  {
+    "ts": "2026-06-16T15:32:08",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 66820.0,
+    "exit": 65531.3427,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-06-18T14:14:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0863,
+    "exit": 0.0847,
+    "pnl_pct": 18.3,
+    "win": true
+  },
+  {
+    "ts": "2026-06-19T07:01:53",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63952.6,
+    "exit": 62760.0,
+    "pnl_pct": 18.6,
+    "win": true
+  },
+  {
+    "ts": "2026-06-19T09:01:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.5,
+    "exit": 43.45,
+    "pnl_pct": 23.6,
+    "win": true
+  },
+  {
+    "ts": "2026-06-19T13:48:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 591.36,
+    "exit": 572.47,
+    "pnl_pct": 31.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-19T16:31:38",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 43.51,
+    "exit": 44.2322,
+    "pnl_pct": -16.6,
+    "win": false
+  },
+  {
+    "ts": "2026-06-20T03:32:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0835,
+    "exit": 0.0833,
+    "pnl_pct": 2.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-20T06:11:03",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 62851.76,
+    "exit": 63803.1914,
+    "pnl_pct": -15.1,
+    "win": false
+  },
+  {
+    "ts": "2026-06-20T14:00:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1316,
+    "exit": 1.1461,
+    "pnl_pct": -12.8,
+    "win": false
+  },
+  {
+    "ts": "2026-06-20T21:22:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 43.89,
+    "exit": 44.15,
+    "pnl_pct": -5.9,
+    "win": false
+  },
+  {
+    "ts": "2026-06-21T16:01:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1734.38,
+    "exit": 1727.48,
+    "pnl_pct": -4.0,
+    "win": false
+  },
+  {
+    "ts": "2026-06-21T19:01:14",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0831,
+    "exit": 0.0834,
+    "pnl_pct": -3.9,
+    "win": false
+  },
+  {
+    "ts": "2026-06-21T23:02:35",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7073,
+    "exit": 0.7014,
+    "pnl_pct": 8.3,
+    "win": true
+  },
+  {
+    "ts": "2026-06-21T23:15:35",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64159.01,
+    "exit": 63636.98,
+    "pnl_pct": -8.1,
+    "win": false
+  },
+  {
+    "ts": "2026-06-22T02:26:28",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 586.5,
+    "exit": 592.4368,
+    "pnl_pct": -10.1,
+    "win": false
+  },
+  {
+    "ts": "2026-06-22T02:28:06",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0828,
+    "exit": 0.0839,
+    "pnl_pct": -13.7,
+    "win": false
+  },
+  {
+    "ts": "2026-06-22T07:02:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 73.18,
+    "exit": 73.92,
+    "pnl_pct": 10.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-22T12:19:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.9,
+    "exit": 44.96,
+    "pnl_pct": 1.3,
+    "win": true
+  },
+  {
+    "ts": "2026-06-22T21:27:30",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 45.29,
+    "exit": 44.5327,
+    "pnl_pct": -16.7,
+    "win": false
+  },
+  {
+    "ts": "2026-06-23T09:19:29",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.082,
+    "exit": 0.0791,
+    "pnl_pct": 35.6,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T15:01:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1033,
+    "exit": 1.0761,
+    "pnl_pct": 24.7,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T15:03:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 62594.88,
+    "exit": 61346.75,
+    "pnl_pct": 19.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T16:32:52",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0788,
+    "exit": 0.0759,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T16:47:22",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 42.23,
+    "exit": 40.771,
+    "pnl_pct": 34.6,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T17:01:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 574.98,
+    "exit": 561.66,
+    "pnl_pct": 23.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T17:46:55",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 69.53,
+    "exit": 67.0922,
+    "pnl_pct": 35.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T17:50:10",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 7.613,
+    "exit": 7.3384,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-06-24T17:51:48",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1658.58,
+    "exit": 1598.7975,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-06-25T14:55:55",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 60811.51,
+    "exit": 58690.5293,
+    "pnl_pct": 34.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-25T14:59:15",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 563.93,
+    "exit": 543.678,
+    "pnl_pct": 35.9,
+    "win": true
+  },
+  {
+    "ts": "2026-06-27T23:15:39",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 42.97,
+    "exit": 42.1161,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-06-29T04:30:32",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 7.258,
+    "exit": 7.3657,
+    "pnl_pct": -14.8,
+    "win": false
+  },
+  {
+    "ts": "2026-06-29T06:02:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.074,
+    "exit": 0.0725,
+    "pnl_pct": 20.3,
+    "win": true
+  },
+  {
+    "ts": "2026-06-29T07:02:19",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1447,
+    "exit": 0.1452,
+    "pnl_pct": -3.5,
+    "win": false
+  },
+  {
+    "ts": "2026-06-29T09:00:24",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 556.47,
+    "exit": 553.55,
+    "pnl_pct": 5.2,
+    "win": true
+  },
+  {
+    "ts": "2026-06-29T12:01:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6858,
+    "exit": 0.6916,
+    "pnl_pct": -8.5,
+    "win": false
+  },
+  {
+    "ts": "2026-06-29T13:05:51",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 59447.35,
+    "exit": 60453.2315,
+    "pnl_pct": -16.9,
+    "win": false
+  },
+  {
+    "ts": "2026-06-29T18:14:47",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1575.16,
+    "exit": 1606.3847,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-06-29T18:18:07",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 552.63,
+    "exit": 561.4804,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-01T04:53:05",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1561.64,
+    "exit": 1592.0557,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-01T11:01:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 549.86,
+    "exit": 545.01,
+    "pnl_pct": 8.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-01T13:00:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 59190.5,
+    "exit": 58667.24,
+    "pnl_pct": 8.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-01T15:01:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 7.212,
+    "exit": 7.305,
+    "pnl_pct": -12.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-01T15:01:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 42.18,
+    "exit": 41.73,
+    "pnl_pct": 10.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-01T15:11:24",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 58700.0,
+    "exit": 59620.0821,
+    "pnl_pct": -15.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-01T16:23:36",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 543.51,
+    "exit": 554.0283,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-03T07:01:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 60516.25,
+    "exit": 61696.98,
+    "pnl_pct": 19.5,
+    "win": true
+  },
+  {
+    "ts": "2026-07-03T16:20:27",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.0839,
+    "exit": 1.1215,
+    "pnl_pct": 34.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-03T19:56:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 560.02,
+    "exit": 568.63,
+    "pnl_pct": 15.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-03T20:40:14",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0749,
+    "exit": 0.0775,
+    "pnl_pct": 34.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-03T21:36:24",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1696.77,
+    "exit": 1756.9441,
+    "pnl_pct": 35.5,
+    "win": true
+  },
+  {
+    "ts": "2026-07-03T21:49:18",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 7.747,
+    "exit": 8.0228,
+    "pnl_pct": 35.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-04T08:02:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.857,
+    "exit": 6.868,
+    "pnl_pct": 1.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-04T08:02:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 61719.45,
+    "exit": 62500.48,
+    "pnl_pct": 12.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-04T14:18:27",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1161,
+    "exit": 1.1544,
+    "pnl_pct": 34.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-04T20:57:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 569.86,
+    "exit": 575.66,
+    "pnl_pct": 10.2,
+    "win": true
+  },
+  {
+    "ts": "2026-07-04T23:14:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 7.954,
+    "exit": 8.036,
+    "pnl_pct": 10.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-05T00:01:27",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1757.94,
+    "exit": 1784.16,
+    "pnl_pct": 14.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-05T01:01:14",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82.38,
+    "exit": 81.75,
+    "pnl_pct": -7.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-05T01:01:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8809,
+    "exit": 0.883,
+    "pnl_pct": 2.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-05T02:34:54",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.7583,
+    "exit": 0.7432,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-05T03:14:57",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.99,
+    "exit": 6.8502,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-05T04:01:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.077,
+    "exit": 0.0759,
+    "pnl_pct": -14.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-05T05:04:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.36,
+    "exit": 44.27,
+    "pnl_pct": -2.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-05T09:03:31",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 62535.76,
+    "exit": 63052.28,
+    "pnl_pct": 8.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-05T14:09:35",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 574.85,
+    "exit": 587.0012,
+    "pnl_pct": 21.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-06T00:14:21",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 62896.07,
+    "exit": 63898.086,
+    "pnl_pct": 15.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-06T08:59:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1770.2,
+    "exit": 1773.3,
+    "pnl_pct": 1.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-06T09:49:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 7.941,
+    "exit": 7.942,
+    "pnl_pct": 0.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-06T10:18:55",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 45.45,
+    "exit": 44.5609,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-06T13:00:51",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 63629.49,
+    "exit": 62515.4995,
+    "pnl_pct": -17.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-06T13:04:11",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 586.84,
+    "exit": 575.0998,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-09T06:01:08",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 43.64,
+    "exit": 43.95,
+    "pnl_pct": -7.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-09T07:00:47",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 563.0,
+    "exit": 573.5354,
+    "pnl_pct": -18.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-09T12:01:27",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 62152.59,
+    "exit": 62812.29,
+    "pnl_pct": -10.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-09T14:01:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0815,
+    "exit": 1.0953,
+    "pnl_pct": -12.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-09T19:07:58",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 7.625,
+    "exit": 7.7776,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-10T01:07:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0724,
+    "exit": 0.0729,
+    "pnl_pct": -7.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-10T10:01:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 571.96,
+    "exit": 575.63,
+    "pnl_pct": 6.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-10T15:33:26",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 79.19,
+    "exit": 77.6173,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-10T19:50:24",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.114,
+    "exit": 1.0982,
+    "pnl_pct": -14.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-10T22:01:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63339.48,
+    "exit": 63849.98,
+    "pnl_pct": 8.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-10T22:01:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.727,
+    "exit": 6.742,
+    "pnl_pct": 2.2,
+    "win": true
+  },
+  {
+    "ts": "2026-07-11T12:01:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0745,
+    "exit": 0.0745,
+    "pnl_pct": 0.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-11T12:01:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.62,
+    "exit": 45.05,
+    "pnl_pct": 9.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-11T12:41:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 7.972,
+    "exit": 8.005,
+    "pnl_pct": 4.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-11T13:44:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1795.82,
+    "exit": 1799.09,
+    "pnl_pct": 1.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-11T23:01:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 77.96,
+    "exit": 78.18,
+    "pnl_pct": -2.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T00:02:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7408,
+    "exit": 0.7405,
+    "pnl_pct": -0.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T00:21:15",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.8787,
+    "exit": 0.8616,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T00:22:49",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.075,
+    "exit": 0.0739,
+    "pnl_pct": -13.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T00:22:50",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1145,
+    "exit": 1.1035,
+    "pnl_pct": -9.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T00:25:58",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 45.41,
+    "exit": 44.8291,
+    "pnl_pct": -12.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T00:33:49",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.009,
+    "exit": 7.9223,
+    "pnl_pct": -10.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T01:08:22",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1803.97,
+    "exit": 1784.7918,
+    "pnl_pct": -10.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T09:01:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64164.41,
+    "exit": 63890.95,
+    "pnl_pct": -4.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-12T13:16:49",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 572.68,
+    "exit": 582.79,
+    "pnl_pct": -17.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-13T04:09:44",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 579.9,
+    "exit": 569.3301,
+    "pnl_pct": -18.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-13T04:14:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 76.97,
+    "exit": 75.92,
+    "pnl_pct": 13.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-13T04:34:42",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1811.63,
+    "exit": 1779.47,
+    "pnl_pct": -17.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-13T04:34:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0993,
+    "exit": 1.0693,
+    "pnl_pct": 27.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-13T05:37:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.009,
+    "exit": 7.916,
+    "pnl_pct": -11.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-13T10:00:35",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0731,
+    "exit": 0.0726,
+    "pnl_pct": 6.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-13T10:00:36",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8494,
+    "exit": 0.8368,
+    "pnl_pct": 14.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-13T10:05:28",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.432,
+    "exit": 6.5581,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-13T18:51:49",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1628,
+    "exit": 0.1571,
+    "pnl_pct": 35.0,
+    "win": true
+  },
+  {
+    "ts": "2026-07-14T01:04:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.1,
+    "exit": 43.53,
+    "pnl_pct": 12.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-14T12:02:52",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8353,
+    "exit": 0.8414,
+    "pnl_pct": -7.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-14T13:30:26",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 564.99,
+    "exit": 572.6176,
+    "pnl_pct": -13.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-14T13:32:03",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 62319.92,
+    "exit": 63389.0619,
+    "pnl_pct": -17.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-14T13:49:52",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1584,
+    "exit": 0.1615,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-14T13:57:57",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 75.27,
+    "exit": 76.7496,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-15T13:55:27",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.26,
+    "exit": 8.53,
+    "pnl_pct": 32.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-15T17:34:49",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.763,
+    "exit": 0.7481,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-15T18:12:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 579.43,
+    "exit": 579.36,
+    "pnl_pct": -0.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-15T23:01:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0743,
+    "exit": 0.074,
+    "pnl_pct": -4.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-15T23:01:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.634,
+    "exit": 6.677,
+    "pnl_pct": 6.5,
+    "win": true
+  },
+  {
+    "ts": "2026-07-15T23:12:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64528.81,
+    "exit": 64831.42,
+    "pnl_pct": 4.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-15T23:14:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.0,
+    "exit": 45.07,
+    "pnl_pct": 1.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-15T23:22:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 77.63,
+    "exit": 77.52,
+    "pnl_pct": -1.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-16T00:04:57",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1091,
+    "exit": 1.1166,
+    "pnl_pct": 6.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-16T01:31:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1879.05,
+    "exit": 1916.83,
+    "pnl_pct": 20.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-16T09:11:30",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.697,
+    "exit": 6.5773,
+    "pnl_pct": -17.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-16T09:16:23",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1916.64,
+    "exit": 1881.8451,
+    "pnl_pct": -18.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-16T13:14:07",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 45.23,
+    "exit": 44.4382,
+    "pnl_pct": -17.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-16T16:35:35",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.8404,
+    "exit": 0.8573,
+    "pnl_pct": -20.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-16T18:56:33",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1151,
+    "exit": 1.0973,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-16T22:02:10",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.516,
+    "exit": 8.415,
+    "pnl_pct": -11.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-17T14:08:06",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.624,
+    "exit": 6.3928,
+    "pnl_pct": 34.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-17T18:47:51",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 62925.0,
+    "exit": 64153.6857,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-17T19:48:53",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.487,
+    "exit": 6.6137,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-18T01:57:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 75.53,
+    "exit": 75.09,
+    "pnl_pct": 5.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-18T03:06:00",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0897,
+    "exit": 1.0882,
+    "pnl_pct": 1.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-18T04:07:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0724,
+    "exit": 0.0727,
+    "pnl_pct": -3.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-18T08:48:08",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 566.74,
+    "exit": 567.89,
+    "pnl_pct": -2.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-18T14:02:45",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1827.31,
+    "exit": 1844.19,
+    "pnl_pct": -9.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-18T17:51:42",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 45.9,
+    "exit": 47.0968,
+    "pnl_pct": 26.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-19T13:02:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1662,
+    "exit": 0.1649,
+    "pnl_pct": -7.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-19T13:30:16",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 64745.56,
+    "exit": 64338.5841,
+    "pnl_pct": -6.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-19T19:08:15",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 76.7,
+    "exit": 75.6367,
+    "pnl_pct": -13.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-20T01:02:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1862.77,
+    "exit": 1867.3,
+    "pnl_pct": 2.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-20T02:10:34",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.344,
+    "exit": 8.5064,
+    "pnl_pct": 19.5,
+    "win": true
+  },
+  {
+    "ts": "2026-07-20T03:01:24",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 46.81,
+    "exit": 47.19,
+    "pnl_pct": 8.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-20T06:01:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0967,
+    "exit": 1.095,
+    "pnl_pct": -1.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-20T06:12:54",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 64604.39,
+    "exit": 64185.9802,
+    "pnl_pct": -6.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-20T07:37:17",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1872.82,
+    "exit": 1846.2359,
+    "pnl_pct": -14.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-20T13:01:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7506,
+    "exit": 0.7541,
+    "pnl_pct": 4.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-20T16:44:50",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 63973.79,
+    "exit": 65183.4096,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-20T22:02:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8176,
+    "exit": 0.8286,
+    "pnl_pct": -13.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-21T00:44:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 76.48,
+    "exit": 77.74,
+    "pnl_pct": 16.5,
+    "win": true
+  },
+  {
+    "ts": "2026-07-21T03:20:41",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.428,
+    "exit": 8.574,
+    "pnl_pct": 17.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-21T08:43:24",
+    "kind": "TARGET_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.7514,
+    "exit": 0.7772,
+    "pnl_pct": 34.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-21T19:13:30",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1252,
+    "exit": 1.1596,
+    "pnl_pct": 30.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-21T23:01:53",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 65228.05,
+    "exit": 66317.81,
+    "pnl_pct": 16.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-22T00:11:15",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.67,
+    "exit": 6.5365,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-22T01:09:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1901.59,
+    "exit": 1933.76,
+    "pnl_pct": 16.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-22T02:01:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 78.12,
+    "exit": 78.48,
+    "pnl_pct": 4.6,
+    "win": true
+  },
+  {
+    "ts": "2026-07-22T04:22:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.625,
+    "exit": 8.695,
+    "pnl_pct": 8.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-22T06:32:49",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 577.72,
+    "exit": 570.0687,
+    "pnl_pct": -13.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-22T07:19:48",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.7733,
+    "exit": 0.7587,
+    "pnl_pct": -18.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-22T08:33:56",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.8557,
+    "exit": 0.839,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-22T13:57:16",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 66341.94,
+    "exit": 65659.9299,
+    "pnl_pct": -10.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-22T16:14:45",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.508,
+    "exit": 6.612,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-22T21:35:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1491,
+    "exit": 1.1374,
+    "pnl_pct": -10.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-23T02:11:42",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1936.67,
+    "exit": 1933.46,
+    "pnl_pct": -1.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-23T16:08:44",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 47.41,
+    "exit": 46.4942,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-23T16:12:02",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0716,
+    "exit": 0.0692,
+    "pnl_pct": 32.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T02:01:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.8726,
+    "exit": 1.8931,
+    "pnl_pct": -10.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-24T12:00:33",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8221,
+    "exit": 0.8017,
+    "pnl_pct": 24.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T14:53:14",
+    "kind": "TARGET_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.7487,
+    "exit": 0.7218,
+    "pnl_pct": 35.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T14:53:15",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 567.38,
+    "exit": 559.4714,
+    "pnl_pct": 13.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T15:18:05",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 76.01,
+    "exit": 73.9339,
+    "pnl_pct": 27.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T17:01:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64955.94,
+    "exit": 64060.23,
+    "pnl_pct": 13.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T22:03:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1141,
+    "exit": 1.091,
+    "pnl_pct": 20.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-24T23:01:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1882.37,
+    "exit": 1857.76,
+    "pnl_pct": 13.1,
+    "win": true
+  },
+  {
+    "ts": "2026-07-25T01:07:01",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.444,
+    "exit": 8.33,
+    "pnl_pct": 13.5,
+    "win": true
+  },
+  {
+    "ts": "2026-07-25T03:15:12",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0695,
+    "exit": 0.0696,
+    "pnl_pct": -2.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T05:01:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.273,
+    "exit": 6.253,
+    "pnl_pct": 3.2,
+    "win": true
+  },
+  {
+    "ts": "2026-07-25T07:34:46",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1679,
+    "exit": 0.162,
+    "pnl_pct": 35.4,
+    "win": true
+  },
+  {
+    "ts": "2026-07-25T13:01:52",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8033,
+    "exit": 0.8138,
+    "pnl_pct": -13.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T14:40:23",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.255,
+    "exit": 6.3476,
+    "pnl_pct": -14.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T15:54:50",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0694,
+    "exit": 0.0705,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T16:13:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 560.77,
+    "exit": 567.3,
+    "pnl_pct": -11.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T17:06:23",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1621,
+    "exit": 0.1651,
+    "pnl_pct": -18.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T18:02:39",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.0899,
+    "exit": 1.1033,
+    "pnl_pct": -12.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T19:01:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64185.84,
+    "exit": 64282.44,
+    "pnl_pct": -1.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-25T23:36:24",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 73.95,
+    "exit": 74.38,
+    "pnl_pct": -5.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-26T00:03:49",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1859.09,
+    "exit": 1875.61,
+    "pnl_pct": -8.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-26T02:09:19",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.347,
+    "exit": 8.393,
+    "pnl_pct": -5.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-26T04:23:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7134,
+    "exit": 0.7145,
+    "pnl_pct": -1.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-26T11:00:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.7903,
+    "exit": 1.8029,
+    "pnl_pct": -7.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-26T12:02:15",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.656,
+    "exit": 3.7292,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-26T17:03:26",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 46.77,
+    "exit": 47.878,
+    "pnl_pct": 23.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-26T23:01:43",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.496,
+    "exit": 8.6819,
+    "pnl_pct": 21.9,
+    "win": true
+  },
+  {
+    "ts": "2026-07-26T23:41:24",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 569.6,
+    "exit": 575.8772,
+    "pnl_pct": 11.0,
+    "win": true
+  },
+  {
+    "ts": "2026-07-26T23:41:25",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.7939,
+    "exit": 1.8161,
+    "pnl_pct": -12.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T02:01:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0718,
+    "exit": 0.073,
+    "pnl_pct": 16.2,
+    "win": true
+  },
+  {
+    "ts": "2026-07-27T09:10:12",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.8263,
+    "exit": 0.8122,
+    "pnl_pct": -17.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T09:35:00",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 47.8,
+    "exit": 46.9452,
+    "pnl_pct": -17.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T13:20:06",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1672,
+    "exit": 0.1639,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T15:29:15",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 574.14,
+    "exit": 570.6264,
+    "pnl_pct": -6.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T15:30:51",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.714,
+    "exit": 6.5909,
+    "pnl_pct": -18.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T15:30:52",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1092,
+    "exit": 1.095,
+    "pnl_pct": -12.8,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T15:30:52",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0729,
+    "exit": 0.0718,
+    "pnl_pct": -15.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T15:30:52",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.817,
+    "exit": 8.6767,
+    "pnl_pct": -15.9,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T22:26:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64852.44,
+    "exit": 64866.03,
+    "pnl_pct": 0.2,
+    "win": true
+  },
+  {
+    "ts": "2026-07-27T23:41:49",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 76.32,
+    "exit": 74.8567,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-27T23:51:40",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1936.83,
+    "exit": 1905.5763,
+    "pnl_pct": -16.1,
+    "win": false
+  },
+  {
+    "ts": "2026-07-28T02:07:57",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 574.3,
+    "exit": 565.1113,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-28T16:25:52",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1883.08,
+    "exit": 1915.8289,
+    "pnl_pct": -17.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-28T16:41:35",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.438,
+    "exit": 6.5568,
+    "pnl_pct": -18.5,
+    "win": false
+  },
+  {
+    "ts": "2026-07-28T16:47:50",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 73.3,
+    "exit": 74.5465,
+    "pnl_pct": -17.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-28T21:05:37",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.6814,
+    "exit": 0.6944,
+    "pnl_pct": -19.0,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T01:06:48",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.332,
+    "exit": 8.4766,
+    "pnl_pct": -17.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T01:17:51",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.06,
+    "exit": 1.0751,
+    "pnl_pct": -14.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T04:14:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 565.49,
+    "exit": 569.84,
+    "pnl_pct": -7.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T08:02:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63639.04,
+    "exit": 64414.52,
+    "pnl_pct": -12.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T09:01:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0701,
+    "exit": 0.071,
+    "pnl_pct": -12.6,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T15:51:33",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 46.2,
+    "exit": 45.0117,
+    "pnl_pct": 25.7,
+    "win": true
+  },
+  {
+    "ts": "2026-07-29T19:03:57",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 45.0,
+    "exit": 45.7747,
+    "pnl_pct": -17.2,
+    "win": false
+  },
+  {
+    "ts": "2026-07-29T23:34:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 73.83,
+    "exit": 73.59,
+    "pnl_pct": 3.3,
+    "win": true
+  },
+  {
+    "ts": "2026-07-30T00:09:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6895,
+    "exit": 0.6855,
+    "pnl_pct": 5.8,
+    "win": true
+  },
+  {
+    "ts": "2026-07-30T01:01:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7614,
+    "exit": 0.764,
+    "pnl_pct": -3.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-30T02:55:32",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.391,
+    "exit": 6.5083,
+    "pnl_pct": -18.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-30T03:20:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.379,
+    "exit": 8.39,
+    "pnl_pct": -1.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-30T16:00:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0702,
+    "exit": 0.0705,
+    "pnl_pct": -5.3,
+    "win": false
+  },
+  {
+    "ts": "2026-07-31T05:40:44",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 74.84,
+    "exit": 73.7599,
+    "pnl_pct": -14.4,
+    "win": false
+  },
+  {
+    "ts": "2026-07-31T08:14:55",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 64773.06,
+    "exit": 64079.9776,
+    "pnl_pct": -10.7,
+    "win": false
+  },
+  {
+    "ts": "2026-07-31T16:23:23",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 592.32,
+    "exit": 584.7812,
+    "pnl_pct": -12.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-01T11:52:29",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 589.5,
+    "exit": 581.4267,
+    "pnl_pct": -13.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-01T17:02:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6832,
+    "exit": 0.6823,
+    "pnl_pct": 1.3,
+    "win": true
+  },
+  {
+    "ts": "2026-08-01T17:10:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0692,
+    "exit": 0.0702,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-01T17:56:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0632,
+    "exit": 1.0603,
+    "pnl_pct": 2.7,
+    "win": true
+  },
+  {
+    "ts": "2026-08-01T18:04:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1866.2,
+    "exit": 1869.32,
+    "pnl_pct": -1.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-01T18:26:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 62980.28,
+    "exit": 62820.65,
+    "pnl_pct": 2.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-01T18:33:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.191,
+    "exit": 8.068,
+    "pnl_pct": 15.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-01T19:25:36",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 72.67,
+    "exit": 71.5784,
+    "pnl_pct": 15.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-01T19:31:59",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 44.99,
+    "exit": 43.7856,
+    "pnl_pct": 26.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-01T19:44:51",
+    "kind": "TARGET_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.6822,
+    "exit": 0.6699,
+    "pnl_pct": 18.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-02T02:16:10",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.002,
+    "exit": 8.1339,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T02:19:22",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.058,
+    "exit": 1.0673,
+    "pnl_pct": -8.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T02:41:34",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 43.95,
+    "exit": 44.5743,
+    "pnl_pct": -14.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T03:08:29",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 62670.4,
+    "exit": 63183.4562,
+    "pnl_pct": -8.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T03:08:29",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.6736,
+    "exit": 0.6871,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T03:08:29",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 71.75,
+    "exit": 73.1532,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T03:19:32",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1843.35,
+    "exit": 1877.7749,
+    "pnl_pct": -18.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T16:47:26",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 577.22,
+    "exit": 586.7449,
+    "pnl_pct": -16.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-02T22:42:55",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1868.45,
+    "exit": 1889.4116,
+    "pnl_pct": -11.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-03T04:47:43",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0708,
+    "exit": 0.0699,
+    "pnl_pct": -12.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-03T07:45:50",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.4,
+    "exit": 8.2321,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-03T08:02:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7918,
+    "exit": 0.7938,
+    "pnl_pct": 2.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-03T10:12:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0799,
+    "exit": 1.0676,
+    "pnl_pct": -11.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-03T11:08:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.717,
+    "exit": 1.7274,
+    "pnl_pct": 6.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-03T19:56:57",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.443,
+    "exit": 6.5716,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-03T21:01:01",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 589.44,
+    "exit": 591.49,
+    "pnl_pct": 3.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-04T09:01:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.16,
+    "exit": 44.31,
+    "pnl_pct": -3.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-04T22:47:58",
+    "kind": "TARGET_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.8239,
+    "exit": 0.8516,
+    "pnl_pct": 33.6,
+    "win": true
+  },
+  {
+    "ts": "2026-08-05T03:02:20",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 593.79,
+    "exit": 604.0774,
+    "pnl_pct": 17.3,
+    "win": true
+  },
+  {
+    "ts": "2026-08-05T20:00:22",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64295.72,
+    "exit": 64785.43,
+    "pnl_pct": 7.6,
+    "win": true
+  },
+  {
+    "ts": "2026-08-06T01:32:45",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.06,
+    "exit": 45.43,
+    "pnl_pct": 8.2,
+    "win": true
+  },
+  {
+    "ts": "2026-08-06T04:06:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 601.51,
+    "exit": 593.41,
+    "pnl_pct": -13.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-06T08:57:27",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.8514,
+    "exit": 0.8344,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-06T17:11:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.6981,
+    "exit": 1.6743,
+    "pnl_pct": 14.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-06T21:02:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64834.25,
+    "exit": 64515.69,
+    "pnl_pct": -4.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-07T02:38:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.25,
+    "exit": 45.65,
+    "pnl_pct": 8.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-07T04:52:42",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.0516,
+    "exit": 1.0236,
+    "pnl_pct": 26.6,
+    "win": true
+  },
+  {
+    "ts": "2026-08-07T16:08:20",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6765,
+    "exit": 0.6696,
+    "pnl_pct": 10.2,
+    "win": true
+  },
+  {
+    "ts": "2026-08-07T17:56:05",
+    "kind": "TARGET_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.6638,
+    "exit": 1.6062,
+    "pnl_pct": 34.6,
+    "win": true
+  },
+  {
+    "ts": "2026-08-07T20:00:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.453,
+    "exit": 6.407,
+    "pnl_pct": 7.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-08T05:52:41",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8153,
+    "exit": 0.8216,
+    "pnl_pct": -7.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-08T06:42:29",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.6733,
+    "exit": 0.6841,
+    "pnl_pct": -16.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-08T07:09:45",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0231,
+    "exit": 1.0345,
+    "pnl_pct": -11.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-08T15:01:08",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.72,
+    "exit": 45.65,
+    "pnl_pct": -1.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-08T16:11:12",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.5971,
+    "exit": 1.6267,
+    "pnl_pct": -18.6,
+    "win": false
+  },
+  {
+    "ts": "2026-08-08T17:02:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64938.43,
+    "exit": 65092.59,
+    "pnl_pct": 2.4,
+    "win": true
+  },
+  {
+    "ts": "2026-08-09T05:08:18",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 74.74,
+    "exit": 76.06,
+    "pnl_pct": 17.7,
+    "win": true
+  },
+  {
+    "ts": "2026-08-09T08:01:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0704,
+    "exit": 0.0702,
+    "pnl_pct": -2.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-09T11:01:54",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.55,
+    "exit": 6.482,
+    "pnl_pct": -10.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-09T12:37:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6884,
+    "exit": 0.6917,
+    "pnl_pct": 4.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-09T15:01:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.325,
+    "exit": 8.307,
+    "pnl_pct": -2.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-09T16:37:22",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.07,
+    "exit": 0.0707,
+    "pnl_pct": -9.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-09T16:56:29",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 76.0,
+    "exit": 77.287,
+    "pnl_pct": 16.9,
+    "win": true
+  },
+  {
+    "ts": "2026-08-09T17:01:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1922.62,
+    "exit": 1926.62,
+    "pnl_pct": 2.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-09T20:18:59",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 602.95,
+    "exit": 608.49,
+    "pnl_pct": 9.2,
+    "win": true
+  },
+  {
+    "ts": "2026-08-09T23:37:42",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 46.33,
+    "exit": 45.8603,
+    "pnl_pct": -10.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-10T00:30:27",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1924.08,
+    "exit": 1912.576,
+    "pnl_pct": -6.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-10T00:43:14",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 607.66,
+    "exit": 602.7382,
+    "pnl_pct": -8.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-10T11:02:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8074,
+    "exit": 0.8053,
+    "pnl_pct": 2.6,
+    "win": true
+  },
+  {
+    "ts": "2026-08-10T14:05:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6922,
+    "exit": 0.6923,
+    "pnl_pct": 0.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-10T14:36:02",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 65203.74,
+    "exit": 64786.7001,
+    "pnl_pct": -6.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-10T14:36:02",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1924.27,
+    "exit": 1904.373,
+    "pnl_pct": -10.3,
+    "win": false
+  },
+  {
+    "ts": "2026-08-10T14:53:49",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 606.11,
+    "exit": 599.9998,
+    "pnl_pct": -10.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-10T16:19:53",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 77.14,
+    "exit": 76.0193,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-11T04:07:26",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.46,
+    "exit": 45.23,
+    "pnl_pct": 5.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-11T16:37:20",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64313.84,
+    "exit": 63619.6,
+    "pnl_pct": 10.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-11T21:53:22",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 8.411,
+    "exit": 8.714,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-11T23:01:52",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 75.01,
+    "exit": 76.4693,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-11T23:11:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1875.49,
+    "exit": 1883.19,
+    "pnl_pct": -4.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-12T00:17:04",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0136,
+    "exit": 1.019,
+    "pnl_pct": -5.3,
+    "win": false
+  },
+  {
+    "ts": "2026-08-12T00:28:10",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 604.24,
+    "exit": 615.5622,
+    "pnl_pct": 18.7,
+    "win": true
+  },
+  {
+    "ts": "2026-08-12T05:12:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 45.22,
+    "exit": 45.34,
+    "pnl_pct": -2.7,
+    "win": false
+  },
+  {
+    "ts": "2026-08-12T10:01:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1887,
+    "exit": 0.1854,
+    "pnl_pct": 17.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-12T14:35:00",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0721,
+    "exit": 0.0709,
+    "pnl_pct": -16.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-12T17:39:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63581.45,
+    "exit": 63548.8,
+    "pnl_pct": 0.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-12T20:46:32",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1912.41,
+    "exit": 1880.253,
+    "pnl_pct": -16.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-13T00:02:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.322,
+    "exit": 6.31,
+    "pnl_pct": 1.9,
+    "win": true
+  },
+  {
+    "ts": "2026-08-13T01:28:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 615.3,
+    "exit": 611.11,
+    "pnl_pct": -6.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-13T06:02:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.721,
+    "exit": 8.753,
+    "pnl_pct": 3.7,
+    "win": true
+  },
+  {
+    "ts": "2026-08-13T12:15:04",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1862,
+    "exit": 0.1845,
+    "pnl_pct": 9.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-14T01:01:57",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.0053,
+    "exit": 1.0098,
+    "pnl_pct": -4.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-14T01:01:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.88,
+    "exit": 44.87,
+    "pnl_pct": 0.2,
+    "win": true
+  },
+  {
+    "ts": "2026-08-14T01:03:35",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0697,
+    "exit": 0.0702,
+    "pnl_pct": -6.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-14T04:01:12",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7729,
+    "exit": 0.7699,
+    "pnl_pct": 3.9,
+    "win": true
+  },
+  {
+    "ts": "2026-08-14T10:42:21",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.493,
+    "exit": 6.363,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-14T12:11:27",
+    "kind": "TARGET_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.48,
+    "exit": 3.3554,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-14T21:41:24",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.5946,
+    "exit": 1.6255,
+    "pnl_pct": -19.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-15T03:18:28",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.6773,
+    "exit": 0.6857,
+    "pnl_pct": -12.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-15T05:04:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7641,
+    "exit": 0.7756,
+    "pnl_pct": -15.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-15T12:01:49",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 62841.02,
+    "exit": 63040.37,
+    "pnl_pct": -3.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-15T18:02:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 44.1,
+    "exit": 44.15,
+    "pnl_pct": -1.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-15T23:01:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 75.18,
+    "exit": 75.67,
+    "pnl_pct": -6.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-15T23:01:35",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1789,
+    "exit": 0.1778,
+    "pnl_pct": 6.1,
+    "win": true
+  },
+  {
+    "ts": "2026-08-16T02:40:20",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.6418,
+    "exit": 1.6092,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-16T07:13:45",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 612.18,
+    "exit": 605.8479,
+    "pnl_pct": -10.3,
+    "win": false
+  },
+  {
+    "ts": "2026-08-16T16:00:00",
+    "kind": "STOP_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 3.243,
+    "exit": 3.3067,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-08-16T16:51:19",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 6.337,
+    "exit": 6.4306,
+    "pnl_pct": -14.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T00:15:07",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1768,
+    "exit": 0.1756,
+    "pnl_pct": 6.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-17T05:02:01",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.7585,
+    "exit": 0.7654,
+    "pnl_pct": -9.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T05:02:01",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6762,
+    "exit": 0.6775,
+    "pnl_pct": -1.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T06:01:57",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.6123,
+    "exit": 1.6378,
+    "pnl_pct": -15.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T07:24:11",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 0.9939,
+    "exit": 1.0047,
+    "pnl_pct": -10.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T07:48:10",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 74.52,
+    "exit": 75.773,
+    "pnl_pct": -16.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T09:14:42",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 605.01,
+    "exit": 604.38,
+    "pnl_pct": 1.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-17T18:47:44",
+    "kind": "STOP_HIT",
+    "symbol": "NEAR/USDT",
+    "entry": 1.641,
+    "exit": 1.6112,
+    "pnl_pct": -18.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-17T18:52:36",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 6.366,
+    "exit": 6.323,
+    "pnl_pct": 6.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-18T02:48:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1762,
+    "exit": 0.1736,
+    "pnl_pct": 14.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-18T04:18:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1900.14,
+    "exit": 1892.82,
+    "pnl_pct": -3.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-18T08:05:00",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63572.52,
+    "exit": 64297.41,
+    "pnl_pct": 11.4,
+    "win": true
+  },
+  {
+    "ts": "2026-08-18T15:27:04",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1723,
+    "exit": 0.1757,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-08-18T17:36:21",
+    "kind": "STOP_HIT",
+    "symbol": "DOT/USDT",
+    "entry": 0.7414,
+    "exit": 0.754,
+    "pnl_pct": -17.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-19T09:21:59",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 64230.1,
+    "exit": 64272.14,
+    "pnl_pct": 0.7,
+    "win": true
+  },
+  {
+    "ts": "2026-08-19T13:01:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.6508,
+    "exit": 0.6578,
+    "pnl_pct": -10.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-19T15:06:11",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 64414.62,
+    "exit": 65157.2995,
+    "pnl_pct": 11.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-19T15:53:02",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 1917.78,
+    "exit": 1947.121,
+    "pnl_pct": 15.3,
+    "win": true
+  },
+  {
+    "ts": "2026-08-19T15:54:40",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 77.16,
+    "exit": 79.7652,
+    "pnl_pct": 33.8,
+    "win": true
+  },
+  {
+    "ts": "2026-08-19T15:57:55",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.0103,
+    "exit": 1.0324,
+    "pnl_pct": 21.9,
+    "win": true
+  },
+  {
+    "ts": "2026-08-19T16:28:48",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 9.589,
+    "exit": 9.9008,
+    "pnl_pct": 32.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-19T16:40:13",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 44.96,
+    "exit": 46.1016,
+    "pnl_pct": 25.4,
+    "win": true
+  },
+  {
+    "ts": "2026-08-20T09:40:09",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 68986.44,
+    "exit": 71414.9632,
+    "pnl_pct": 35.2,
+    "win": true
+  },
+  {
+    "ts": "2026-08-20T12:48:26",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 625.59,
+    "exit": 648.1235,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-21T05:43:10",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 46.87,
+    "exit": 48.5587,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-08-21T07:39:15",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 647.37,
+    "exit": 670.2053,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-08-25T22:01:24",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 78928.19,
+    "exit": 78230.91,
+    "pnl_pct": -8.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-28T09:01:25",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 49.78,
+    "exit": 49.22,
+    "pnl_pct": 11.2,
+    "win": true
+  },
+  {
+    "ts": "2026-08-28T15:04:55",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 711.92,
+    "exit": 701.685,
+    "pnl_pct": -14.4,
+    "win": false
+  },
+  {
+    "ts": "2026-08-28T15:06:35",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 80366.38,
+    "exit": 78766.6144,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-29T12:04:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 49.15,
+    "exit": 48.83,
+    "pnl_pct": 6.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-30T02:02:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 7.299,
+    "exit": 7.308,
+    "pnl_pct": -1.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T07:02:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0851,
+    "exit": 0.085,
+    "pnl_pct": 0.5,
+    "win": true
+  },
+  {
+    "ts": "2026-08-30T07:21:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 687.77,
+    "exit": 693.96,
+    "pnl_pct": -9.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T09:55:02",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 11.294,
+    "exit": 11.376,
+    "pnl_pct": -7.3,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T11:01:38",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.839,
+    "exit": 0.8442,
+    "pnl_pct": -6.2,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T13:07:10",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 48.76,
+    "exit": 49.41,
+    "pnl_pct": -13.3,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T13:10:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3814,
+    "exit": 1.3993,
+    "pnl_pct": -13.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T14:01:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.1999,
+    "exit": 0.2031,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-08-30T17:42:15",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2476.93,
+    "exit": 2525.7895,
+    "pnl_pct": 19.7,
+    "win": true
+  },
+  {
+    "ts": "2026-08-30T23:22:31",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 49.92,
+    "exit": 48.9189,
+    "pnl_pct": -20.1,
+    "win": false
+  },
+  {
+    "ts": "2026-08-31T00:24:01",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 701.71,
+    "exit": 690.6094,
+    "pnl_pct": -15.8,
+    "win": false
+  },
+  {
+    "ts": "2026-08-31T00:24:01",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2496.89,
+    "exit": 2448.7339,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-08-31T00:24:01",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.557,
+    "exit": 11.339,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-08-31T00:28:52",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 79025.0,
+    "exit": 77889.7204,
+    "pnl_pct": -14.4,
+    "win": false
+  },
+  {
+    "ts": "2026-09-01T07:00:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 686.27,
+    "exit": 693.99,
+    "pnl_pct": -11.2,
+    "win": false
+  },
+  {
+    "ts": "2026-09-01T08:01:17",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 48.63,
+    "exit": 48.87,
+    "pnl_pct": -4.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-01T11:02:21",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 7.223,
+    "exit": 7.25,
+    "pnl_pct": -3.7,
+    "win": false
+  },
+  {
+    "ts": "2026-09-02T16:04:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 685.95,
+    "exit": 686.85,
+    "pnl_pct": -1.3,
+    "win": false
+  },
+  {
+    "ts": "2026-09-02T21:20:38",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2421.32,
+    "exit": 2389.92,
+    "pnl_pct": 13.0,
+    "win": true
+  },
+  {
+    "ts": "2026-09-02T22:11:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 77166.88,
+    "exit": 77340.61,
+    "pnl_pct": -2.3,
+    "win": false
+  },
+  {
+    "ts": "2026-09-03T05:55:23",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 7.15,
+    "exit": 7.2899,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-03T08:05:47",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0817,
+    "exit": 0.0833,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-09-03T14:44:19",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2391.94,
+    "exit": 2434.374,
+    "pnl_pct": -17.7,
+    "win": false
+  },
+  {
+    "ts": "2026-09-04T12:02:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 50.61,
+    "exit": 51.15,
+    "pnl_pct": 10.7,
+    "win": true
+  },
+  {
+    "ts": "2026-09-04T13:31:05",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 7.519,
+    "exit": 7.3796,
+    "pnl_pct": -18.5,
+    "win": false
+  },
+  {
+    "ts": "2026-09-04T13:32:42",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2506.83,
+    "exit": 2458.5852,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-09-04T13:32:42",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 81188.28,
+    "exit": 79906.0837,
+    "pnl_pct": -15.8,
+    "win": false
+  },
+  {
+    "ts": "2026-09-04T13:32:42",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 103.83,
+    "exit": 101.7913,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-04T13:32:43",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 51.31,
+    "exit": 50.5477,
+    "pnl_pct": -14.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-04T23:33:41",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 722.0,
+    "exit": 718.17,
+    "pnl_pct": -5.3,
+    "win": false
+  },
+  {
+    "ts": "2026-09-05T10:12:54",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0845,
+    "exit": 0.0862,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-09-06T04:39:18",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 104.09,
+    "exit": 106.5919,
+    "pnl_pct": 24.0,
+    "win": true
+  },
+  {
+    "ts": "2026-09-06T14:25:07",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 766.21,
+    "exit": 751.7057,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-06T21:34:15",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 12.033,
+    "exit": 12.4581,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-09-06T21:49:03",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 7.584,
+    "exit": 7.7721,
+    "pnl_pct": 24.8,
+    "win": true
+  },
+  {
+    "ts": "2026-09-07T02:00:08",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2490.17,
+    "exit": 2510.49,
+    "pnl_pct": 8.2,
+    "win": true
+  },
+  {
+    "ts": "2026-09-07T08:14:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 104.72,
+    "exit": 105.46,
+    "pnl_pct": 7.1,
+    "win": true
+  },
+  {
+    "ts": "2026-09-08T14:41:49",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 79031.38,
+    "exit": 77780.0089,
+    "pnl_pct": 15.8,
+    "win": true
+  },
+  {
+    "ts": "2026-09-09T06:16:57",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 78373.69,
+    "exit": 79287.6501,
+    "pnl_pct": -11.7,
+    "win": false
+  },
+  {
+    "ts": "2026-09-09T16:12:59",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 79632.72,
+    "exit": 78352.623,
+    "pnl_pct": -16.1,
+    "win": false
+  },
+  {
+    "ts": "2026-09-10T22:00:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 78325.13,
+    "exit": 77278.56,
+    "pnl_pct": 13.4,
+    "win": true
+  },
+  {
+    "ts": "2026-09-11T00:16:13",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3824,
+    "exit": 1.3345,
+    "pnl_pct": 34.7,
+    "win": true
+  },
+  {
+    "ts": "2026-09-11T05:01:29",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 101.84,
+    "exit": 99.4,
+    "pnl_pct": 24.0,
+    "win": true
+  },
+  {
+    "ts": "2026-09-11T07:02:03",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 723.56,
+    "exit": 716.67,
+    "pnl_pct": 9.5,
+    "win": true
+  },
+  {
+    "ts": "2026-09-11T10:41:00",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2465.93,
+    "exit": 2462.66,
+    "pnl_pct": 1.3,
+    "win": true
+  },
+  {
+    "ts": "2026-09-11T13:51:12",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 77125.67,
+    "exit": 77997.9082,
+    "pnl_pct": -11.3,
+    "win": false
+  },
+  {
+    "ts": "2026-09-11T13:51:12",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 99.62,
+    "exit": 101.3789,
+    "pnl_pct": -17.7,
+    "win": false
+  },
+  {
+    "ts": "2026-09-11T13:52:49",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3425,
+    "exit": 1.3694,
+    "pnl_pct": -20.1,
+    "win": false
+  },
+  {
+    "ts": "2026-09-11T13:54:26",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 713.9,
+    "exit": 723.4795,
+    "pnl_pct": -13.4,
+    "win": false
+  },
+  {
+    "ts": "2026-09-11T14:49:00",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.527,
+    "exit": 11.7531,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-11T14:49:01",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0839,
+    "exit": 0.0855,
+    "pnl_pct": -19.2,
+    "win": false
+  },
+  {
+    "ts": "2026-09-11T14:53:48",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 7.529,
+    "exit": 7.6765,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-13T00:56:21",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 727.73,
+    "exit": 727.76,
+    "pnl_pct": 0.0,
+    "win": true
+  },
+  {
+    "ts": "2026-09-13T18:13:15",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76852.42,
+    "exit": 77385.9007,
+    "pnl_pct": -6.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-13T19:54:14",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.275,
+    "exit": 11.4838,
+    "pnl_pct": -18.5,
+    "win": false
+  },
+  {
+    "ts": "2026-09-14T03:26:44",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76791.72,
+    "exit": 77500.2396,
+    "pnl_pct": -9.2,
+    "win": false
+  },
+  {
+    "ts": "2026-09-14T09:25:09",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2481.12,
+    "exit": 2527.3409,
+    "pnl_pct": -18.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-14T09:25:09",
+    "kind": "STOP_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.7135,
+    "exit": 0.7275,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-14T14:46:38",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 716.83,
+    "exit": 722.23,
+    "pnl_pct": -7.5,
+    "win": false
+  },
+  {
+    "ts": "2026-09-14T15:01:34",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0834,
+    "exit": 0.0839,
+    "pnl_pct": -5.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-14T19:21:06",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3942,
+    "exit": 1.4428,
+    "pnl_pct": 34.9,
+    "win": true
+  },
+  {
+    "ts": "2026-09-15T06:18:50",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 78586.42,
+    "exit": 77372.4858,
+    "pnl_pct": -15.4,
+    "win": false
+  },
+  {
+    "ts": "2026-09-15T19:47:20",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 52.61,
+    "exit": 51.1188,
+    "pnl_pct": 28.3,
+    "win": true
+  },
+  {
+    "ts": "2026-09-16T10:00:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 76965.1,
+    "exit": 75733.85,
+    "pnl_pct": 16.0,
+    "win": true
+  },
+  {
+    "ts": "2026-09-17T01:21:55",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 714.73,
+    "exit": 727.0833,
+    "pnl_pct": -17.3,
+    "win": false
+  },
+  {
+    "ts": "2026-09-17T02:28:13",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 97.35,
+    "exit": 99.2872,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-17T02:29:50",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 51.02,
+    "exit": 52.0387,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-09-17T08:01:38",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2407.45,
+    "exit": 2443.76,
+    "pnl_pct": -15.1,
+    "win": false
+  },
+  {
+    "ts": "2026-09-17T12:16:36",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 75894.46,
+    "exit": 76392.93,
+    "pnl_pct": -6.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-18T04:11:47",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 52.74,
+    "exit": 54.6148,
+    "pnl_pct": 35.5,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T04:42:37",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 7.593,
+    "exit": 7.8631,
+    "pnl_pct": 35.6,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T04:52:21",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 100.94,
+    "exit": 104.5131,
+    "pnl_pct": 35.4,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T08:17:38",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 735.54,
+    "exit": 757.2068,
+    "pnl_pct": 29.5,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T14:51:03",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2466.95,
+    "exit": 2553.9437,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T14:52:41",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 78020.23,
+    "exit": 80087.8292,
+    "pnl_pct": 26.5,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T15:15:43",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 105.52,
+    "exit": 109.1476,
+    "pnl_pct": 34.4,
+    "win": true
+  },
+  {
+    "ts": "2026-09-18T20:17:08",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 55.17,
+    "exit": 57.1137,
+    "pnl_pct": 35.2,
+    "win": true
+  },
+  {
+    "ts": "2026-09-19T11:07:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 750.76,
+    "exit": 767.1,
+    "pnl_pct": 21.8,
+    "win": true
+  },
+  {
+    "ts": "2026-09-20T02:19:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2610.15,
+    "exit": 2624.7,
+    "pnl_pct": 5.6,
+    "win": true
+  },
+  {
+    "ts": "2026-09-20T02:36:13",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 81100.77,
+    "exit": 81071.04,
+    "pnl_pct": -0.4,
+    "win": false
+  },
+  {
+    "ts": "2026-09-20T03:26:44",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 112.01,
+    "exit": 109.7776,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-20T03:44:45",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 766.25,
+    "exit": 755.0762,
+    "pnl_pct": -14.6,
+    "win": false
+  },
+  {
+    "ts": "2026-09-21T01:19:29",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2607.19,
+    "exit": 2686.1134,
+    "pnl_pct": 30.3,
+    "win": true
+  },
+  {
+    "ts": "2026-09-21T09:29:43",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 80828.54,
+    "exit": 82172.183,
+    "pnl_pct": 16.6,
+    "win": true
+  },
+  {
+    "ts": "2026-09-21T09:33:01",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 109.84,
+    "exit": 113.7729,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-09-21T12:05:54",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 760.61,
+    "exit": 786.3724,
+    "pnl_pct": 33.9,
+    "win": true
+  },
+  {
+    "ts": "2026-09-21T16:51:54",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2661.52,
+    "exit": 2757.3617,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-09-22T06:18:04",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 801.88,
+    "exit": 785.9495,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-23T01:41:46",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 86163.25,
+    "exit": 86553.76,
+    "pnl_pct": 4.5,
+    "win": true
+  },
+  {
+    "ts": "2026-09-23T09:43:27",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2742.54,
+    "exit": 2744.28,
+    "pnl_pct": 0.6,
+    "win": true
+  },
+  {
+    "ts": "2026-09-23T15:11:52",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 86312.14,
+    "exit": 85122.1954,
+    "pnl_pct": -13.8,
+    "win": false
+  },
+  {
+    "ts": "2026-09-24T08:31:43",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 763.65,
+    "exit": 775.8372,
+    "pnl_pct": -16.0,
+    "win": false
+  },
+  {
+    "ts": "2026-09-25T19:04:43",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 776.75,
+    "exit": 773.74,
+    "pnl_pct": -3.9,
+    "win": false
+  },
+  {
+    "ts": "2026-09-25T20:13:20",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 84542.58,
+    "exit": 84048.6,
+    "pnl_pct": -5.8,
+    "win": false
+  },
+  {
+    "ts": "2026-09-27T13:02:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 121.24,
+    "exit": 124.09,
+    "pnl_pct": 23.5,
+    "win": true
+  },
+  {
+    "ts": "2026-09-29T11:05:49",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82832.62,
+    "exit": 84188.81,
+    "pnl_pct": -16.4,
+    "win": false
+  },
+  {
+    "ts": "2026-09-29T12:00:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 762.27,
+    "exit": 764.48,
+    "pnl_pct": -2.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-02T17:25:08",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2744.43,
+    "exit": 2691.5125,
+    "pnl_pct": -19.3,
+    "win": false
+  },
+  {
+    "ts": "2026-10-02T18:16:13",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 780.56,
+    "exit": 772.0369,
+    "pnl_pct": -10.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-02T18:40:46",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 121.86,
+    "exit": 119.4241,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-10-02T19:40:07",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 86027.77,
+    "exit": 84333.8622,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-03T23:12:23",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 13.892,
+    "exit": 14.1657,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-04T01:02:42",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2667.52,
+    "exit": 2688.23,
+    "pnl_pct": -7.8,
+    "win": false
+  },
+  {
+    "ts": "2026-10-04T23:02:05",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 785.1,
+    "exit": 793.44,
+    "pnl_pct": 10.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-04T23:16:34",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 85509.98,
+    "exit": 86373.5052,
+    "pnl_pct": 10.1,
+    "win": true
+  },
+  {
+    "ts": "2026-10-04T23:26:13",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2702.17,
+    "exit": 2732.0449,
+    "pnl_pct": 11.1,
+    "win": true
+  },
+  {
+    "ts": "2026-10-05T06:01:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 120.65,
+    "exit": 120.46,
+    "pnl_pct": -1.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-05T06:01:48",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 71.22,
+    "exit": 69.8268,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-05T15:31:51",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 14.154,
+    "exit": 13.9484,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-05T15:33:28",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 121.47,
+    "exit": 119.8132,
+    "pnl_pct": -13.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-05T16:05:36",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.5061,
+    "exit": 1.5021,
+    "pnl_pct": -2.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-05T17:16:11",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 86285.41,
+    "exit": 85215.0366,
+    "pnl_pct": -12.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-05T17:17:47",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2724.87,
+    "exit": 2689.6902,
+    "pnl_pct": -12.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-06T00:08:48",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 794.46,
+    "exit": 788.5,
+    "pnl_pct": -7.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-06T01:04:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0957,
+    "exit": 0.0954,
+    "pnl_pct": -3.1,
+    "win": false
+  },
+  {
+    "ts": "2026-10-06T19:01:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.4961,
+    "exit": 1.5086,
+    "pnl_pct": -8.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-06T22:41:23",
+    "kind": "TARGET_HIT",
+    "symbol": "UNI/USDT",
+    "entry": 8.856,
+    "exit": 8.5384,
+    "pnl_pct": 35.9,
+    "win": true
+  },
+  {
+    "ts": "2026-10-06T23:01:18",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 13.946,
+    "exit": 13.938,
+    "pnl_pct": 0.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-07T16:02:12",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.477,
+    "exit": 1.4249,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T05:01:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 84192.53,
+    "exit": 82718.35,
+    "pnl_pct": 17.5,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T05:41:24",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 66.41,
+    "exit": 64.1524,
+    "pnl_pct": 34.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T06:34:21",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 768.8,
+    "exit": 770.95,
+    "pnl_pct": -2.8,
+    "win": false
+  },
+  {
+    "ts": "2026-10-08T11:34:14",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 117.68,
+    "exit": 114.5052,
+    "pnl_pct": 27.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T14:43:06",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 13.327,
+    "exit": 12.8547,
+    "pnl_pct": 35.4,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T16:12:55",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 770.2,
+    "exit": 753.3715,
+    "pnl_pct": 21.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T16:19:25",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2570.74,
+    "exit": 2497.8613,
+    "pnl_pct": 28.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T16:21:03",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0886,
+    "exit": 0.0854,
+    "pnl_pct": 35.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T16:22:41",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.4188,
+    "exit": 1.3696,
+    "pnl_pct": 34.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T16:55:02",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 64.42,
+    "exit": 62.1012,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-08T18:00:52",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 82713.37,
+    "exit": 80918.9851,
+    "pnl_pct": 21.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-09T12:47:23",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 81720.53,
+    "exit": 83333.2706,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-10T02:00:33",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 735.12,
+    "exit": 743.07,
+    "pnl_pct": -10.8,
+    "win": false
+  },
+  {
+    "ts": "2026-10-10T02:02:11",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2477.72,
+    "exit": 2488.86,
+    "pnl_pct": -4.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-10T12:02:24",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 63.82,
+    "exit": 63.61,
+    "pnl_pct": 3.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-11T01:01:58",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 109.12,
+    "exit": 110.08,
+    "pnl_pct": -8.8,
+    "win": false
+  },
+  {
+    "ts": "2026-10-12T13:36:47",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 83784.3,
+    "exit": 82912.2932,
+    "pnl_pct": -10.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-12T14:31:45",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 13.38,
+    "exit": 13.1276,
+    "pnl_pct": -18.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-13T01:08:18",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2519.09,
+    "exit": 2428.2544,
+    "pnl_pct": 36.1,
+    "win": true
+  },
+  {
+    "ts": "2026-10-13T01:08:19",
+    "kind": "TARGET_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 744.6,
+    "exit": 729.0872,
+    "pnl_pct": 20.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-13T16:24:22",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82782.12,
+    "exit": 83693.62,
+    "pnl_pct": -11.0,
+    "win": false
+  },
+  {
+    "ts": "2026-10-14T02:41:10",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 734.95,
+    "exit": 742.62,
+    "pnl_pct": -10.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-15T14:52:19",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2421.64,
+    "exit": 2337.3398,
+    "pnl_pct": 34.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-15T23:01:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 730.04,
+    "exit": 731.77,
+    "pnl_pct": -2.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-16T01:01:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 81724.04,
+    "exit": 82232.62,
+    "pnl_pct": -6.2,
+    "win": false
+  },
+  {
+    "ts": "2026-10-17T22:39:14",
+    "kind": "TARGET_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.224,
+    "exit": 0.2163,
+    "pnl_pct": 34.5,
+    "win": true
+  },
+  {
+    "ts": "2026-10-17T22:39:14",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 12.217,
+    "exit": 11.8417,
+    "pnl_pct": 30.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-17T22:39:14",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0798,
+    "exit": 0.0775,
+    "pnl_pct": 28.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T01:01:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3111,
+    "exit": 1.293,
+    "pnl_pct": 13.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T01:04:45",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 720.66,
+    "exit": 717.62,
+    "pnl_pct": 4.2,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T02:00:42",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 59.59,
+    "exit": 58.8,
+    "pnl_pct": 13.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T04:43:38",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 81351.06,
+    "exit": 81973.3178,
+    "pnl_pct": -7.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-18T20:40:25",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2401.37,
+    "exit": 2339.8349,
+    "pnl_pct": 25.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T20:40:25",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0794,
+    "exit": 0.0765,
+    "pnl_pct": 36.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T20:46:51",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.98,
+    "exit": 11.5521,
+    "pnl_pct": 35.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-18T20:58:07",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 58.85,
+    "exit": 56.8603,
+    "pnl_pct": 33.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-19T01:01:36",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 103.41,
+    "exit": 104.12,
+    "pnl_pct": -6.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-19T01:09:42",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 80982.12,
+    "exit": 82185.3744,
+    "pnl_pct": -14.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-19T02:09:30",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 711.0,
+    "exit": 725.1186,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-19T02:12:44",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.2965,
+    "exit": 1.3101,
+    "pnl_pct": -10.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-19T10:00:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.2192,
+    "exit": 0.2205,
+    "pnl_pct": -5.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-20T08:47:10",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82745.7,
+    "exit": 81550.01,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-20T15:08:10",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2389.42,
+    "exit": 2423.0097,
+    "pnl_pct": -14.1,
+    "win": false
+  },
+  {
+    "ts": "2026-10-21T15:51:34",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.334,
+    "exit": 1.3802,
+    "pnl_pct": 34.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-21T18:01:14",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82768.15,
+    "exit": 84559.79,
+    "pnl_pct": 21.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-21T19:39:14",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 12.37,
+    "exit": 12.8096,
+    "pnl_pct": 35.5,
+    "win": true
+  },
+  {
+    "ts": "2026-10-21T20:00:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 737.15,
+    "exit": 747.89,
+    "pnl_pct": 14.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-22T00:09:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2449.79,
+    "exit": 2480.78,
+    "pnl_pct": 12.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-22T02:12:49",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0818,
+    "exit": 0.0821,
+    "pnl_pct": 3.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-22T03:19:26",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 84340.89,
+    "exit": 83122.3508,
+    "pnl_pct": -14.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-22T03:19:27",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 107.88,
+    "exit": 105.7512,
+    "pnl_pct": -19.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-22T03:24:21",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 748.51,
+    "exit": 741.3078,
+    "pnl_pct": -9.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-22T04:36:05",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 61.8,
+    "exit": 60.5867,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-23T06:13:13",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.137,
+    "exit": 9.3153,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-23T08:34:30",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 734.68,
+    "exit": 746.1749,
+    "pnl_pct": -15.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-23T12:01:50",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 82025.17,
+    "exit": 81610.5,
+    "pnl_pct": 5.1,
+    "win": true
+  },
+  {
+    "ts": "2026-10-23T12:01:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 104.51,
+    "exit": 103.97,
+    "pnl_pct": 5.2,
+    "win": true
+  },
+  {
+    "ts": "2026-10-23T12:13:00",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.3301,
+    "exit": 1.3177,
+    "pnl_pct": 9.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-23T13:16:57",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0795,
+    "exit": 0.0801,
+    "pnl_pct": -7.3,
+    "win": false
+  },
+  {
+    "ts": "2026-10-23T13:28:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2406.0,
+    "exit": 2399.0,
+    "pnl_pct": 2.9,
+    "win": true
+  },
+  {
+    "ts": "2026-10-23T15:02:19",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 12.086,
+    "exit": 12.09,
+    "pnl_pct": -0.3,
+    "win": false
+  },
+  {
+    "ts": "2026-10-23T23:52:02",
+    "kind": "TARGET_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 59.31,
+    "exit": 57.1903,
+    "pnl_pct": 35.7,
+    "win": true
+  },
+  {
+    "ts": "2026-10-23T23:55:16",
+    "kind": "TARGET_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 9.222,
+    "exit": 8.8958,
+    "pnl_pct": 35.4,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T10:23:39",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.982,
+    "exit": 11.5681,
+    "pnl_pct": 34.5,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T10:39:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 743.31,
+    "exit": 731.65,
+    "pnl_pct": -15.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-24T13:02:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 81650.0,
+    "exit": 80577.36,
+    "pnl_pct": 13.1,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T15:16:14",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0793,
+    "exit": 0.0769,
+    "pnl_pct": 30.9,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T15:27:25",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3084,
+    "exit": 1.2696,
+    "pnl_pct": 29.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T16:16:58",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2375.99,
+    "exit": 2299.92,
+    "pnl_pct": 32.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T16:16:59",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 80805.43,
+    "exit": 79590.7322,
+    "pnl_pct": 15.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-24T16:18:35",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 102.76,
+    "exit": 99.1798,
+    "pnl_pct": 34.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-25T00:32:02",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.2714,
+    "exit": 1.2956,
+    "pnl_pct": -19.0,
+    "win": false
+  },
+  {
+    "ts": "2026-10-25T01:55:15",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 731.69,
+    "exit": 742.3092,
+    "pnl_pct": -14.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-25T04:19:40",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 100.62,
+    "exit": 102.6323,
+    "pnl_pct": -20.0,
+    "win": false
+  },
+  {
+    "ts": "2026-10-25T14:01:56",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.925,
+    "exit": 8.826,
+    "pnl_pct": 11.1,
+    "win": true
+  },
+  {
+    "ts": "2026-10-25T14:01:56",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 56.5,
+    "exit": 56.34,
+    "pnl_pct": 2.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-25T17:52:07",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 80213.05,
+    "exit": 80664.41,
+    "pnl_pct": -5.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-25T18:22:17",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 56.31,
+    "exit": 57.2472,
+    "pnl_pct": -16.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-25T19:28:40",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2333.02,
+    "exit": 2355.16,
+    "pnl_pct": -9.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-26T05:34:04",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 11.579,
+    "exit": 11.394,
+    "pnl_pct": 16.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-26T06:34:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0775,
+    "exit": 0.0772,
+    "pnl_pct": 4.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-26T06:34:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.2074,
+    "exit": 0.2045,
+    "pnl_pct": 14.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-26T06:45:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 102.0,
+    "exit": 101.4,
+    "pnl_pct": 5.9,
+    "win": true
+  },
+  {
+    "ts": "2026-10-26T06:50:10",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 744.0,
+    "exit": 742.38,
+    "pnl_pct": -2.2,
+    "win": false
+  },
+  {
+    "ts": "2026-10-26T07:04:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.2985,
+    "exit": 1.2915,
+    "pnl_pct": 5.4,
+    "win": true
+  },
+  {
+    "ts": "2026-10-26T12:57:44",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 8.821,
+    "exit": 8.9928,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-26T16:37:27",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.39,
+    "exit": 11.6162,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T01:54:43",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.2887,
+    "exit": 1.3119,
+    "pnl_pct": -18.0,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T02:02:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2329.87,
+    "exit": 2328.09,
+    "pnl_pct": 0.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-27T02:44:37",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 79578.47,
+    "exit": 80314.57,
+    "pnl_pct": -9.2,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T07:36:21",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0767,
+    "exit": 0.0774,
+    "pnl_pct": -9.0,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T08:00:55",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 56.49,
+    "exit": 56.32,
+    "pnl_pct": 3.0,
+    "win": true
+  },
+  {
+    "ts": "2026-10-27T08:05:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 101.12,
+    "exit": 99.58,
+    "pnl_pct": 15.2,
+    "win": true
+  },
+  {
+    "ts": "2026-10-27T18:25:09",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0773,
+    "exit": 0.0786,
+    "pnl_pct": -16.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T22:33:08",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.317,
+    "exit": 11.5384,
+    "pnl_pct": -19.6,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T22:33:08",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 79926.26,
+    "exit": 80859.46,
+    "pnl_pct": -11.7,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T22:34:45",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2320.71,
+    "exit": 2358.7128,
+    "pnl_pct": -16.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-27T22:34:46",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 100.08,
+    "exit": 101.6292,
+    "pnl_pct": -15.5,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T03:16:54",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 56.49,
+    "exit": 57.4965,
+    "pnl_pct": -17.8,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T13:36:27",
+    "kind": "STOP_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.823,
+    "exit": 11.6177,
+    "pnl_pct": -17.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T14:28:02",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2374.9,
+    "exit": 2337.2087,
+    "pnl_pct": -15.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T14:48:54",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 102.69,
+    "exit": 100.9114,
+    "pnl_pct": -17.3,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T15:25:40",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3346,
+    "exit": 1.3118,
+    "pnl_pct": -17.1,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T21:02:51",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.205,
+    "exit": 0.2091,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-28T21:02:51",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 8.919,
+    "exit": 9.0966,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-10-29T01:00:57",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0791,
+    "exit": 0.0798,
+    "pnl_pct": 9.6,
+    "win": true
+  },
+  {
+    "ts": "2026-10-29T02:49:02",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 81105.4,
+    "exit": 80275.6294,
+    "pnl_pct": -10.2,
+    "win": false
+  },
+  {
+    "ts": "2026-10-29T15:48:31",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 58.0,
+    "exit": 57.92,
+    "pnl_pct": -1.4,
+    "win": false
+  },
+  {
+    "ts": "2026-10-29T21:43:09",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.2935,
+    "exit": 1.253,
+    "pnl_pct": 31.3,
+    "win": true
+  },
+  {
+    "ts": "2026-10-30T01:21:02",
+    "kind": "TARGET_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 80299.99,
+    "exit": 77425.7468,
+    "pnl_pct": 35.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-31T10:02:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 77968.97,
+    "exit": 77361.7,
+    "pnl_pct": 7.8,
+    "win": true
+  },
+  {
+    "ts": "2026-10-31T19:21:56",
+    "kind": "STOP_HIT",
+    "symbol": "LTC/USDT",
+    "entry": 54.89,
+    "exit": 55.9601,
+    "pnl_pct": -19.5,
+    "win": false
+  },
+  {
+    "ts": "2026-11-01T05:13:47",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 702.97,
+    "exit": 702.86,
+    "pnl_pct": 0.2,
+    "win": true
+  },
+  {
+    "ts": "2026-11-02T04:25:48",
+    "kind": "STOP_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 93.92,
+    "exit": 95.45,
+    "pnl_pct": -16.3,
+    "win": false
+  },
+  {
+    "ts": "2026-11-03T11:06:17",
+    "kind": "STOP_HIT",
+    "symbol": "AVAX/USDT",
+    "entry": 8.308,
+    "exit": 8.4722,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-11-03T13:22:56",
+    "kind": "STOP_HIT",
+    "symbol": "ADA/USDT",
+    "entry": 0.1869,
+    "exit": 0.1906,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-11-03T23:01:15",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.0745,
+    "exit": 0.0756,
+    "pnl_pct": -15.2,
+    "win": false
+  },
+  {
+    "ts": "2026-11-04T00:02:16",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 76811.56,
+    "exit": 77866.22,
+    "pnl_pct": -13.7,
+    "win": false
+  },
+  {
+    "ts": "2026-11-04T01:19:11",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 54.12,
+    "exit": 53.83,
+    "pnl_pct": 5.4,
+    "win": true
+  },
+  {
+    "ts": "2026-11-04T02:33:05",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.2764,
+    "exit": 1.251,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-11-04T03:58:54",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2296.44,
+    "exit": 2252.7699,
+    "pnl_pct": -19.0,
+    "win": false
+  },
+  {
+    "ts": "2026-11-04T04:00:31",
+    "kind": "TARGET_HIT",
+    "symbol": "LINK/USDT",
+    "entry": 11.134,
+    "exit": 10.7402,
+    "pnl_pct": 35.4,
+    "win": true
+  },
+  {
+    "ts": "2026-11-04T06:40:30",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 695.37,
+    "exit": 699.18,
+    "pnl_pct": -5.5,
+    "win": false
+  },
+  {
+    "ts": "2026-11-04T08:23:58",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 76718.13,
+    "exit": 78186.4765,
+    "pnl_pct": -19.1,
+    "win": false
+  },
+  {
+    "ts": "2026-11-04T15:43:09",
+    "kind": "STOP_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.0746,
+    "exit": 0.0759,
+    "pnl_pct": -17.7,
+    "win": false
+  },
+  {
+    "ts": "2026-11-05T15:14:23",
+    "kind": "STOP_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2428.55,
+    "exit": 2380.4343,
+    "pnl_pct": -19.8,
+    "win": false
+  },
+  {
+    "ts": "2026-11-05T15:37:24",
+    "kind": "STOP_HIT",
+    "symbol": "BTC/USDT",
+    "entry": 80518.05,
+    "exit": 79161.6962,
+    "pnl_pct": -16.8,
+    "win": false
+  },
+  {
+    "ts": "2026-11-05T15:37:24",
+    "kind": "STOP_HIT",
+    "symbol": "BNB/USDT",
+    "entry": 720.28,
+    "exit": 708.5048,
+    "pnl_pct": -16.3,
+    "win": false
+  },
+  {
+    "ts": "2026-11-05T15:55:23",
+    "kind": "STOP_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.3083,
+    "exit": 1.2823,
+    "pnl_pct": -19.9,
+    "win": false
+  },
+  {
+    "ts": "2026-11-07T01:03:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 690.78,
+    "exit": 693.78,
+    "pnl_pct": -4.3,
+    "win": false
+  },
+  {
+    "ts": "2026-11-07T02:01:09",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 76309.07,
+    "exit": 75909.91,
+    "pnl_pct": 5.2,
+    "win": true
+  },
+  {
+    "ts": "2026-11-07T21:16:28",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 2232.33,
+    "exit": 2235.43,
+    "pnl_pct": -1.4,
+    "win": false
+  },
+  {
+    "ts": "2026-11-08T04:35:51",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 75924.99,
+    "exit": 75853.39,
+    "pnl_pct": 0.9,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T13:01:32",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 1.1722,
+    "exit": 1.1664,
+    "pnl_pct": 4.9,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T18:05:33",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 8.219,
+    "exit": 8.186,
+    "pnl_pct": 4.0,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T21:47:57",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 0.8932,
+    "exit": 0.8886,
+    "pnl_pct": 5.2,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T22:51:33",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2233.05,
+    "exit": 2195.874,
+    "pnl_pct": 16.6,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T22:53:13",
+    "kind": "TARGET_HIT",
+    "symbol": "XRP/USDT",
+    "entry": 1.1627,
+    "exit": 1.1339,
+    "pnl_pct": 24.8,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T22:54:51",
+    "kind": "TARGET_HIT",
+    "symbol": "SOL/USDT",
+    "entry": 89.23,
+    "exit": 87.3534,
+    "pnl_pct": 21.0,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T22:56:29",
+    "kind": "TARGET_HIT",
+    "symbol": "DOGE/USDT",
+    "entry": 0.071,
+    "exit": 0.069,
+    "pnl_pct": 28.9,
+    "win": true
+  },
+  {
+    "ts": "2026-11-08T22:56:29",
+    "kind": "TARGET_HIT",
+    "symbol": "SUI/USDT",
+    "entry": 0.8496,
+    "exit": 0.8197,
+    "pnl_pct": 35.2,
+    "win": true
+  },
+  {
+    "ts": "2026-11-10T00:01:39",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 74782.15,
+    "exit": 75247.66,
+    "pnl_pct": -6.2,
+    "win": false
+  },
+  {
+    "ts": "2026-11-10T09:20:23",
+    "kind": "TIME_STOP",
+    "symbol": null,
+    "entry": 680.16,
+    "exit": 690.61,
+    "pnl_pct": -15.4,
+    "win": false
+  },
+  {
+    "ts": "2026-11-10T16:41:19",
+    "kind": "TARGET_HIT",
+    "symbol": "ETH/USDT",
+    "entry": 2098.61,
+    "exit": 2030.6593,
+    "pnl_pct": 32.4,
+    "win": true
+  }
+]

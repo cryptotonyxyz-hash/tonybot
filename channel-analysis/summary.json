@@ -1,0 +1,113 @@
+{
+  "messages_total": 4513,
+  "signals_parsed": 1096,
+  "outcomes_parsed": 1107,
+  "outcomes_wins": 464,
+  "outcomes_losses": 643,
+  "outcomes_win_rate_pct": 41.9,
+  "pairs_seen": {
+    "BTC/USDT": 164,
+    "ETH/USDT": 110,
+    "BNB/USDT": 150,
+    "XRP/USDT": 89,
+    "SOL/USDT": 91,
+    "DOGE/USDT": 75,
+    "TON/USDT": 22,
+    "AVAX/USDT": 69,
+    "LTC/USDT": 103,
+    "LINK/USDT": 74,
+    "ADA/USDT": 45,
+    "SUI/USDT": 33,
+    "DOT/USDT": 30,
+    "UNI/USDT": 17,
+    "NEAR/USDT": 24
+  },
+  "types": {
+    "SHORT": 663,
+    "LONG": 433
+  },
+  "outcome_kinds": {
+    "LOSS": 40,
+    "WIN": 26,
+    "STOP_HIT": 421,
+    "TARGET_HIT": 220,
+    "TIME_STOP": 400
+  },
+  "score_distribution": {},
+  "label_distribution": {
+    "PREMIUM": 523,
+    "HIGH": 573
+  },
+  "sl_dist_pct": {
+    "n": 1096,
+    "min": 0.561,
+    "max": 2.0555,
+    "median": 1.8446,
+    "mean": 1.703,
+    "mode": [
+      [
+        1.9608,
+        4
+      ],
+      [
+        2.0,
+        4
+      ],
+      [
+        1.9362,
+        3
+      ]
+    ]
+  },
+  "invalid_above_factor": {
+    "n": 663,
+    "min": 0.109,
+    "max": 1.886,
+    "median": 0.634,
+    "mean": 0.665,
+    "mode": [
+      [
+        0.471,
+        5
+      ],
+      [
+        0.652,
+        5
+      ],
+      [
+        0.489,
+        4
+      ]
+    ]
+  },
+  "implied_sl_multiplier": {},
+  "realised_rr": {
+    "n": 1096,
+    "min": 1.7,
+    "max": 1.933,
+    "median": 1.8,
+    "mean": 1.8,
+    "mode": [
+      [
+        1.8,
+        435
+      ],
+      [
+        1.799,
+        78
+      ],
+      [
+        1.801,
+        77
+      ]
+    ]
+  },
+  "latest_career": {
+    "ts": "2026-11-11T01:01:23",
+    "wins": 435,
+    "losses": 591
+  },
+  "career_samples": 276,
+  "performance_reports": 315,
+  "unmatched_bot_like_messages": 1704
+}

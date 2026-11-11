@@ -3,6 +3,7 @@
 
 # Local runtime state
 trades.json
+stats.json
 
 # Python
 __pycache__/
