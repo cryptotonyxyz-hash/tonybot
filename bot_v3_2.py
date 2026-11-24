@@ -978,7 +978,7 @@ def track_signals():
 def print_startup_banner():
     """Print startup service banner to console."""
     print("==================================================")
-    print("🤖 TONYBOT V3.1 – PROFESSIONAL SIGNAL SERVICE")
+    print("🤖 TONYBOT V3.2 – PROFESSIONAL SIGNAL SERVICE")
     print(f"🛡 Regime filter: {'ON' if V31_REGIME_FILTER else 'OFF'} | "
           f"ADX rising: {'ON' if V31_ADX_RISING else 'OFF'} | "
           f"Top-6 only: {'ON' if V31_TOP6_ONLY else 'OFF'}")
@@ -995,10 +995,10 @@ def print_startup_banner():
 def send_online_alert():
     """Send startup message to Telegram channel."""
     online_msg = (
-        "🤖 TonyBot v3.0 Online\n"
+        "🤖 TonyBot v3.2 Online\n"
         "------------------------------------\n"
         "✅ Professional Signal Service\n"
-        "📊 Monitoring 15 pairs\n"
+        "📊 Monitoring 6 pairs\n"
         "⭐ Premium trend signals only\n"
         "⚙️ Multi-timeframe confirmation\n\n"
         "Ready to scan markets..."

@@ -418,5 +418,4 @@ up, expectancy down, no out-of-sample lift). The 50DMA filter remains
 available as an option (`V32_USE_50DMA=True`) but is off by default.
 Equity from $1,000 (bot's own per-trade risk, compounding, as of
 09:00 WAT 11 Nov 2026): see `channel-analysis/equity-1000usd.txt`
-(V3.0 $1,063.49, V3.1 $3,387.60, V3.2 $3,769.99). Local only — not
-pushed to GitHub.
+(V3.0 $1,063.49, V3.1 $3,387.60, V3.2 $3,769.99). Pushed to GitHub Nov 12, 2026.
