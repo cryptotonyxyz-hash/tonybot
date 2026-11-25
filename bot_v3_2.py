@@ -1086,7 +1086,7 @@ def run_bot():
         except KeyboardInterrupt:
             print("\n🛑 Shutting down gracefully...")
             offline_msg = (
-                "🔴 TonyBot v3.0 Offline\n"
+                "🔴 TonyBot v3.2 Offline\n"
                 "Manual shutdown initiated."
             )
             send_telegram_alert(offline_msg)
